@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.ef9c59da.css",
-    "main.js": "/static/js/main.a02d5ae0.js",
-    "static/js/787.c3dde23b.chunk.js": "/static/js/787.c3dde23b.chunk.js",
-    "index.html": "/index.html",
-    "main.ef9c59da.css.map": "/static/css/main.ef9c59da.css.map",
-    "main.a02d5ae0.js.map": "/static/js/main.a02d5ae0.js.map",
-    "787.c3dde23b.chunk.js.map": "/static/js/787.c3dde23b.chunk.js.map"
+    "main.css": "/rnp-app/static/css/main.ef9c59da.css",
+    "main.js": "/rnp-app/static/js/main.d76daf9f.js",
+    "static/js/787.c3dde23b.chunk.js": "/rnp-app/static/js/787.c3dde23b.chunk.js",
+    "index.html": "/rnp-app/index.html",
+    "main.ef9c59da.css.map": "/rnp-app/static/css/main.ef9c59da.css.map",
+    "main.d76daf9f.js.map": "/rnp-app/static/js/main.d76daf9f.js.map",
+    "787.c3dde23b.chunk.js.map": "/rnp-app/static/js/787.c3dde23b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ef9c59da.css",
-    "static/js/main.a02d5ae0.js"
+    "static/js/main.d76daf9f.js"
   ]
 }
