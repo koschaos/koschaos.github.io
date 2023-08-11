@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/rnp-app/static/css/main.ef9c59da.css",
-    "main.js": "/rnp-app/static/js/main.d76daf9f.js",
+    "main.js": "/rnp-app/static/js/main.44ca286f.js",
     "static/js/787.c3dde23b.chunk.js": "/rnp-app/static/js/787.c3dde23b.chunk.js",
     "index.html": "/rnp-app/index.html",
     "main.ef9c59da.css.map": "/rnp-app/static/css/main.ef9c59da.css.map",
-    "main.d76daf9f.js.map": "/rnp-app/static/js/main.d76daf9f.js.map",
+    "main.44ca286f.js.map": "/rnp-app/static/js/main.44ca286f.js.map",
     "787.c3dde23b.chunk.js.map": "/rnp-app/static/js/787.c3dde23b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ef9c59da.css",
-    "static/js/main.d76daf9f.js"
+    "static/js/main.44ca286f.js"
   ]
 }
