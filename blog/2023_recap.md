@@ -98,6 +98,4 @@ Try to reach out to your family more often than you think you should - yes, it m
 Regards,
 Kevin.
 
-Sent using a Ruby Mail script. If you want to be removed from the list, just reply STOP to this email. I won't be offended.
-
-(Sent [[]])
+Copyright &copy; 2023 Kevin O'Sullivan. All rights reserved.
