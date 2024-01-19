@@ -71,13 +71,29 @@ I managed to get through almost 40 books last year.  I've been meaning to read A
 
 The other main books that I found impactful (these are non-fiction):
 - Life 3.0: Being Human in the Age of Artificial Intelligence - Max Tegmark
-  - There's a lot of talk about AI these days (understatement of 2023!) but I first read Max Tegmark's "Life 3.0" book back in 2018 and found it ... interesting!  Re-reading it this year, it turns out to be *very* interesting, and prescient ... well worth the re-visit this year in light of ChatGPT, GPT-4, Gemini, etc.
+  
+  There's a lot of talk about AI these days (understatement of 2023!) but I first read Max Tegmark's "Life 3.0" book back in 2018 and found it ... interesting!  Re-reading it this year, it turns out to be *very* interesting, and prescient ... well worth the re-visit this year in light of ChatGPT, GPT-4, Gemini, etc.
+
 - Our Mathematical Universe: My Quest for the Ultimate Nature of Reality - Max Tegmark
-  - Before I read this book, I slogged my way through David Deutsch's "The Fabric of Reality" after listening to David on a podcast with Sam Harris and thought it would be an excellent way to stretch my view on the world, the universe, etc.  Spoiler alert - it wasn't!  "Slogged" is the key word in that last sentence!!  Max's book is far more approachable and understandable ... or as approachable and understandable as can be when it comes to discussions of universes, multi-verses and the nature of reality!!!  And just to prove to myself that I'm a complete idiot, I then decided to slog my way through David Deutsch's "The Beginning of Infinity" afterwards 🤦🏼‍♂️
+  
+  Before I read this book, I slogged my way through David Deutsch's "The Fabric of Reality" after listening to David on a podcast with Sam Harris and thought it would be an excellent way to stretch my view on the world, the universe, etc.
+  
+  Spoiler alert - it wasn't!  "Slogged" is the key word in that last sentence!!
+  
+  Max's book is far more approachable and understandable ... or as approachable and understandable as can be when it comes to discussions of universes, multi-verses and the nature of reality!!!
+  
+  And just to prove to myself that I'm a complete idiot, I then decided to slog my way through David Deutsch's "The Beginning of Infinity" afterwards 🤦🏼‍♂️
+
 - The Coming Wave: Technology, Power, and the Twenty-First Century's Greatest Dilemma - Mustafa Suleyman, with Michael Bhaskar
-  - A more recent book about AI (and synthetic biology) from one of the founders of DeepMind and, more recently, Inflection AI. Again, another book I picked up after listening to a very interesting interview between Mustafa and Scott Galloway on the latter's podcast.  It covers quite well (IMHO) the increasingly rapid development in two keys areas (and several associated related areas) that may very well impact society quite deeply in the years and decades ahead.  It paints a fairly complete picture, the good and the bad, from a leader in the AI field who leans more to the optimistic side (not a doomsayer) but he doesn't shy away from describing how it could go wrong too.
+  A more recent book about AI (and synthetic biology) from one of the founders of DeepMind and, more recently, Inflection AI. Again, another book I picked up after listening to an interview between Mustafa and Scott Galloway on the latter's podcast.
+  
+  It covers quite well (IMHO) the increasingly rapid development in two keys areas (and several associated related areas) that may very well impact society quite deeply in the years and decades ahead.  It paints a fairly complete picture, the good and the bad, from a leader in the AI field who leans more to the optimistic side (not a doomsayer) but he doesn't shy away from describing how it could go wrong too.
+
 - Humankind: A Hopeful History - Rutger Bregman, translated by Erica Moore, Elizabeth Manton
-  - Technically, this is on my list as a 2014 book, in that I started it in December and finished it in January! Yet another book from an author who was interviewed on Scott Galloway's podcast!! This book was really fascinating in that, in an effort to highlight that there's a lot to be hopeful about when it comes to thinking about humanity (i.e., the opposite of what you might think if you pay attention to the nightly news), he dispels so many iconic stories and studies that we've heard about (the Milgrim experiment, the Stanford prison experiment, the broken windows theory of policing, etc.) as either hoaxes or just really bad science.  At one point during reading it, it almost felt like a vendetta against some of Malcolm Gladwell's writing, who covered several of these stories in his books!
+  
+  Technically, this is on my list as a 2014 book, in that I started it in December and finished it in January! Yet another book from an author who was interviewed on Scott Galloway's podcast!!
+  
+  In an effort to highlight that there's a lot to be hopeful about when it comes to thinking about humanity (i.e., the opposite of what you might think if you pay attention to the nightly news), the author dispels so many iconic stories and studies that we've heard about (the Milgrim experiment, the Stanford prison experiment, the broken windows theory of policing, etc.) as either hoaxes or just really bad science.  At one point during reading it, it almost felt like a vendetta against some of Malcolm Gladwell's writing, who covered several of these stories in his books!  In any case, this was a very interesting book and quite probably the highlight of my year (granted, that might also be recency bias!)
 
 ### Wrapping up
 
@@ -87,13 +103,13 @@ The night before my ablation procedure, I sent my brother and sister in Ireland 
 
 <img src="./attachments/message.jpg" alt="WhatsApp message" width="200"/>
 
-And that night, I hugged my boys a bit tighter and hugged Susan a bit longer in the morning before leaving for the hospital.  It was a sobering thought that this procedure involved messing about with my heart.
+That night, I hugged my boys a bit tighter and in the morning hugged Susan a bit longer before leaving for the hospital.  It was a sobering thought that the procedure involved messing about with my heart.
 
 In 2019, when my family and I visited Ireland after a gap of seven years, my siblings and I agreed that we'd visit each other in alternate years ... and then the pandemic happened!  Since my sister visited in 2023, it's my turn to visit my brother and sister this year.
 
-I turn 50 later this year and if I'm lucky enough to have 25-30 more years where I'm healthy enough to travel, that's just 25-30 more times I'll get to see my sister.  It's only half that for my brother - since he can't afford to take time away from the farm to come visit us in Canada, we'll only see each other in person when we go to Ireland.
+I turn 50 later in the year and if I'm lucky enough to have 25-30 more years where I'm healthy enough to travel, that's just 25-30 more times I'll get to see my sister.  It's only half that for my brother - since he can't afford to take time away from the farm to come visit us in Canada, we'll only see each other in person when we go to Ireland.
 
-Several of the folks receiving this aren't physically close to their parents or family.  I know from experience that it's easy for the physical distance to become mental distance ("out-of-sight, out-of-mind"), not through any malice or intention ... just through the distance.
+Several of the folks receiving this aren't physically close to their parents or family.  I know from experience that it's easy for the physical distance to become mental distance ("out-of-sight, out-of-mind"), not through any malice or ill intention ... just through the distance and neglect.
 
 Try to reach out to your family more often than you think you should - yes, it might stir up annoyances (it is family, after all!) but in the long run I don't think you'll regret it.  I know I need to do it more myself.
 
