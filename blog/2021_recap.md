@@ -1,4 +1,6 @@
 
+<small>February 1, 2022</small>
+
 ### Happy New Year ... ish!
 
 Belated Happy New Year (Gregorian calendar) and Happy New Year (Lunar calendar)!
@@ -55,7 +57,7 @@ What have I learned this past year?  That relationships are ultimately the great
 
 'Til next time, take care of yourself, and feel free to reach out.  I'd love to hear how 2021 was for you, if any interesting books or podcasts grabbed your attention, and just to catch up in general.
 
-Regards,
+Regards,<br/>
 Kevin.
 
-Copyright &copy; 2021 Kevin O'Sullivan. All rights reserved.
+<small>Copyright &copy; 2021 Kevin O'Sullivan. All rights reserved.</small>

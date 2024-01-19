@@ -1,5 +1,7 @@
 
-### Happy (belated) New Year!
+<small>January 18, 2024</small>
+
+### Happy (belated) New Year, 2024!
 
 I sent one of these in 2022 but didn't send one last year (couldn't be bothered?) and a few folks chastised me for its omission (you know who you are!)
 
@@ -120,7 +122,7 @@ Try to reach out to your family more often than you think you should - yes, it m
 
 'Til next time, take care of yourself, and feel free to reach out. I'd love to hear how 2023 was for you, if any interesting books or podcasts grabbed your attention, and just to catch up in general.
 
-Regards,
+Regards,<br/>
 Kevin.
 
 <small>Copyright &copy; 2023 Kevin O'Sullivan. All rights reserved.</small>
