@@ -58,4 +58,4 @@ What have I learned this past year?  That relationships are ultimately the great
 Regards,
 Kevin.
 
-Copyright &copy; 2021-2023 Kevin O'Sullivan. All rights reserved.
+Copyright &copy; 2021 Kevin O'Sullivan. All rights reserved.
