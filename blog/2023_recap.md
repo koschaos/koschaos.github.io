@@ -85,7 +85,7 @@ If you've made it this far, you've apparently got way too much time on your hand
 
 The night before my ablation procedure, I sent my brother and sister in Ireland a message on WhatsApp:
 
-> Hey, this isn't to freak you out or anything. Tomorrow is, by all accounts, a fairly routine procedure. But, shit happens sometimes, no matter how rare, so to avoid regrets later, I need to say "I love you, very much", to both of you.
+![Hey, this isn't to freak you out or anything. Tomorrow is, by all accounts, a fairly routine procedure. But, shit happens sometimes, no matter how rare, so to avoid regrets later, I need to say "I love you, very much", to both of you.](./attachments/message.jpg)
 
 And that night, I hugged my boys a bit tighter and hugged Susan a bit longer in the morning before leaving for the hospital.  It was a sobering thought that this procedure involved messing about with my heart.
 
