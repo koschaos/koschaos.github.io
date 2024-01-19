@@ -1,7 +1,7 @@
 
 <small>January 18, 2024</small>
 
-### Happy (belated) New Year, 2024!
+## Happy (belated) New Year, 2024!
 
 I sent one of these in 2022 but didn't send one last year (couldn't be bothered?) and a few folks chastised me for its omission (you know who you are!)
 
