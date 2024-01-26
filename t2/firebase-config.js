@@ -1,5 +1,5 @@
 // Your Firebase Config
-const firebaseConfig = {
+export const firebaseConfig = {
   apiKey: "AIzaSyB9zlLH9xgSUrw2WEi4PCVtsU5jqdwaKj8",
   authDomain: "url-tracker-f404e.firebaseapp.com",
   databaseURL: "https://url-tracker-f404e-default-rtdb.firebaseio.com",

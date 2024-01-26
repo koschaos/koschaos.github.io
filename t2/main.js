@@ -4,7 +4,7 @@ import {
   // ref,
   // set,
 } from 'https://www.gstatic.com/firebasejs/9.6.1/firebase-database.js';
-import { firebaseConfig } from './firebase-config';
+import { firebaseConfig } from './firebase-config.js';
 
 // Initialize Firebase with your config
 initializeApp(firebaseConfig);
