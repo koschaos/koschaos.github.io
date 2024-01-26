@@ -1,8 +1,16 @@
+import { initializeApp } from "firebase/app";
+import {
+  getDatabase,
+  // ref,
+  // set,
+} from 'firebase/database';
+import { firebaseConfig } from './config';
+
 // Initialize Firebase with your config
-firebase.initializeApp(firebaseConfig);
+initializeApp(firebaseConfig);
 
 // Reference to your Firebase Realtime Database
-const database = firebase.database();
+const database = getDatabase();
 
 // Get parameters from the URL
 const urlParams = new URLSearchParams(window.location.search);
