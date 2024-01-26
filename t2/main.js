@@ -9,9 +9,6 @@ import { firebaseConfig } from './firebase-config.js';
 // Initialize Firebase with your config
 initializeApp(firebaseConfig);
 
-// Reference to your Firebase Realtime Database
-const database = getDatabase();
-
 // Get parameters from the URL
 const urlParams = new URLSearchParams(window.location.search);
 const userId = urlParams.get('id');
@@ -21,10 +18,23 @@ const redirectUrl = urlParams.get('redirect');
 document.getElementById('userId').value = userId;
 document.getElementById('redirectUrl').value = redirectUrl;
 
-// Store the data in Firebase Realtime Database
-database.ref('redirects/' + userId).set({
-  redirectUrl: redirectUrl,
-});
+const urlKey = redirectUrl.replace(/[^a-zA-Z0-9\-]/g, "-");
+// console.log(`DEBUG: ${userId ? userId : "null"}, ${redirectUrl ? redirectUrl : "null"}, ${urlKey ? urlKey : "null"}`);
+
+if (id && urlKey) {
+  // Add the "id" to the Firebase realtime database
+  const database = getDatabase();
+  set(ref(database, 'tracker/' + userId), {
+    [urlKey]: 1
+  })
+  .then(() => {
+    // Data saved successfully!
+    // console.log(`DEBUG: ${urlKey} for ${userId} successfully saved to database`)
+  })
+  .catch((error) => {
+    console.error(error);
+  });
+}
 
 // Redirect the user to the specified URL
 setTimeout(() => {
