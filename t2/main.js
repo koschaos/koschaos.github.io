@@ -21,7 +21,7 @@ document.getElementById('redirectUrl').value = redirectUrl;
 const urlKey = redirectUrl.replace(/[^a-zA-Z0-9\-]/g, "-");
 // console.log(`DEBUG: ${userId ? userId : "null"}, ${redirectUrl ? redirectUrl : "null"}, ${urlKey ? urlKey : "null"}`);
 
-if (id && urlKey) {
+if (userId && urlKey) {
   // Add the "id" to the Firebase realtime database
   const database = getDatabase();
   set(ref(database, 'tracker/' + userId), {
