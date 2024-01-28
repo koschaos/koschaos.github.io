@@ -9,7 +9,7 @@ import { firebaseConfig } from './firebase-config.js';
 // Initialize Firebase with your config
 initializeApp(firebaseConfig);
 
-const redirectTimer = 5000; // 5 seconds
+const redirectTimer = 2000; // 2 seconds
 
 // Get parameters from the URL
 const urlParams = new URLSearchParams(window.location.search);
@@ -26,7 +26,7 @@ if (userId && urlKey) {
   })
   .then(() => {
     // Data saved successfully!
-    console.log(`DEBUG: ${urlKey} for ${userId} successfully saved to database`)
+    // console.log(`DEBUG: ${urlKey} for ${userId} successfully saved to database`)
   })
   .catch((error) => {
     console.error(error);
