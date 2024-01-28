@@ -9,6 +9,8 @@ import { firebaseConfig } from './firebase-config.js';
 // Initialize Firebase with your config
 initializeApp(firebaseConfig);
 
+const redirectTimer = 5000; // 5 seconds
+
 // Get parameters from the URL
 const urlParams = new URLSearchParams(window.location.search);
 const userId = urlParams.get('id');
@@ -24,16 +26,13 @@ if (userId && urlKey) {
   })
   .then(() => {
     // Data saved successfully!
-    // console.log(`DEBUG: ${urlKey} for ${userId} successfully saved to database`)
+    console.log(`DEBUG: ${urlKey} for ${userId} successfully saved to database`)
   })
   .catch((error) => {
     console.error(error);
   });
 }
 
-if (redirectUrl) {
-  // Redirect the user to the "redirect" URL
-  window.location.href = redirectUrl;
-} else {
-  window.location.href = "https://koschaos.github.io/blog";
-}
+setTimeout(() => {
+  window.location.href = redirectUrl ? redirectUrl : "https://koschaos.github.io/blog";
+}, redirectTimer);
