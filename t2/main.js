@@ -16,9 +16,9 @@ const redirectUrl = urlParams.get('redirect');
 
 // Update the hidden form with user ID and redirect URL
 document.getElementById('userId').value = userId;
-document.getElementById('redirectUrl').value = redirectUrl;
+document.getElementById('redirectUrl').value = redirectUrl ? redirectUrl : "https://koschaos.github.io/blog";
 
-const urlKey = redirectUrl.replace(/[^a-zA-Z0-9\-]/g, "-");
+const urlKey = redirectUrl ? redirectUrl.replace(/[^a-zA-Z0-9\-]/g, "-") : null;
 // console.log(`DEBUG: ${userId ? userId : "null"}, ${redirectUrl ? redirectUrl : "null"}, ${urlKey ? urlKey : "null"}`);
 
 if (userId && urlKey) {
