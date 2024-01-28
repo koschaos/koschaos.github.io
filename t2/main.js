@@ -13,11 +13,6 @@ initializeApp(firebaseConfig);
 const urlParams = new URLSearchParams(window.location.search);
 const userId = urlParams.get('id');
 const redirectUrl = urlParams.get('redirect');
-
-// Update the hidden form with user ID and redirect URL
-document.getElementById('userId').value = userId;
-document.getElementById('redirectUrl').value = redirectUrl ? redirectUrl : "https://koschaos.github.io/blog";
-
 const urlKey = redirectUrl ? redirectUrl.replace(/[^a-zA-Z0-9\-]/g, "-") : null;
 // console.log(`DEBUG: ${userId ? userId : "null"}, ${redirectUrl ? redirectUrl : "null"}, ${urlKey ? urlKey : "null"}`);
 
@@ -36,7 +31,9 @@ if (userId && urlKey) {
   });
 }
 
-// Redirect the user to the specified URL
-setTimeout(() => {
-  document.getElementById('redirectForm').submit();
-}, 2000); // Redirect after 2 seconds (adjust as needed)
+if (redirectUrl) {
+  // Redirect the user to the "redirect" URL
+  window.location.href = redirectUrl;
+} else {
+  window.location.href = "https://koschaos.github.io/blog";
+}
