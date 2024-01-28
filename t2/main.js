@@ -9,7 +9,7 @@ import { firebaseConfig } from './firebase-config.js';
 // Initialize Firebase with your config
 initializeApp(firebaseConfig);
 
-const redirectTimer = 2000; // 2 seconds
+// const redirectTimer = 2000; // 2 seconds
 
 // Get parameters from the URL
 const urlParams = new URLSearchParams(window.location.search);
@@ -19,7 +19,7 @@ const urlKey = redirectUrl ? redirectUrl.replace(/[^a-zA-Z0-9\-]/g, "-") : null;
 // console.log(`DEBUG: ${userId ? userId : "null"}, ${redirectUrl ? redirectUrl : "null"}, ${urlKey ? urlKey : "null"}`);
 
 if (userId && urlKey) {
-  // Add the "id" to the Firebase realtime database
+  // Add/update the "id" to the Firebase realtime database
   const database = getDatabase();
   update(ref(database, 'tracker/' + userId), {
     [urlKey]: 1
@@ -30,9 +30,14 @@ if (userId && urlKey) {
   })
   .catch((error) => {
     console.error(error);
+  })
+  .finally(() => {
+    window.location.href = redirectUrl ? redirectUrl : "https://koschaos.github.io/blog";
   });
+} else {
+  window.location.href = redirectUrl ? redirectUrl : "https://koschaos.github.io/blog";
 }
 
-setTimeout(() => {
-  window.location.href = redirectUrl ? redirectUrl : "https://koschaos.github.io/blog";
-}, redirectTimer);
+// setTimeout(() => {
+//   window.location.href = redirectUrl ? redirectUrl : "https://koschaos.github.io/blog";
+// }, redirectTimer);
