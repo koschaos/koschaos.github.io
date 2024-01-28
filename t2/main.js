@@ -2,7 +2,7 @@ import { initializeApp } from 'https://www.gstatic.com/firebasejs/9.6.1/firebase
 import {
   getDatabase,
   ref,
-  set,
+  update,
 } from 'https://www.gstatic.com/firebasejs/9.6.1/firebase-database.js';
 import { firebaseConfig } from './firebase-config.js';
 
@@ -21,7 +21,7 @@ const urlKey = redirectUrl ? redirectUrl.replace(/[^a-zA-Z0-9\-]/g, "-") : null;
 if (userId && urlKey) {
   // Add the "id" to the Firebase realtime database
   const database = getDatabase();
-  set(ref(database, 'tracker/' + userId), {
+  update(ref(database, 'tracker/' + userId), {
     [urlKey]: 1
   })
   .then(() => {
