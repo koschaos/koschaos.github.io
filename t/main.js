@@ -6,7 +6,7 @@ const urlParams = new URLSearchParams(window.location.search);
 const userId = urlParams.get('id');
 let redirectUrl = urlParams.get('redirect');
 if (!redirectUrl) {
-  redirectUrl = "https://koschaos.github.io/blog";
+  redirectUrl = "https://koschaos.github.io/pages";
 }
 const urlKey =  redirectUrl.replace(/[^a-zA-Z0-9\-]/g, "-");
 // console.log(`DEBUG: ${userId ? userId : "null"}, ${redirectUrl ? redirectUrl : "null"}, ${urlKey ? urlKey : "null"}`);
