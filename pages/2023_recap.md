@@ -94,8 +94,7 @@ The other main books that I found impactful (these are non-fiction):
   
   It covers quite well (IMHO) the increasingly rapid development in two keys areas (and several associated related areas) that may very well impact society quite deeply in the years and decades ahead.  It paints a fairly complete picture, the good and the bad, from a leader in the AI field who leans more to the optimistic side (not a doomsayer) but he doesn't shy away from describing how it could go wrong too.
 
-  > [!TIP]
-  > As an aside - if you haven't heard of DeepMind before (now a Google subsidiary), check out the documentary on Netflix called "AlphaGo" about how DeepMind's AlphaGo AI program beat one of the top-ranked Go players in the world.
+  > As an aside - if you haven't heard of DeepMind before (now a Google subsidiary), check out the documentary "AlphoGo" on Netflix about how DeepMind's AlphaGo AI program beat one of the top-ranked Go players in the world.
 
 - 📖 *Humankind: A Hopeful History* - Rutger Bregman, translated by Erica Moore, Elizabeth Manton
   
