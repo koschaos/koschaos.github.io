@@ -129,5 +129,3 @@ Try to reach out to your family more often than you think you should - yes, it m
 
 Regards,<br/>
 Kevin.
-
-<small>Copyright &copy; 2023 Kevin O'Sullivan. All rights reserved.</small>
