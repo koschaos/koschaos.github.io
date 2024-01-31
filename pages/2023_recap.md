@@ -3,8 +3,6 @@
 
 ## Happy (belated) New Year, 2024!
 
-I sent one of these in 2022 but didn't send one last year (couldn't be bothered?) and a few folks chastised me for its omission (you know who you are!)
-
 I hope you are doing well as we start 2024. When I sent the last one, we were still in the pandemic; now we're *technically* not in a pandemic but there does seem to be quite a few cases of COVID going around, so I hope everyone is taking care of themselves.
 
 ### Winter 2022 (Dec '22 to Mar'23)
@@ -17,25 +15,25 @@ My dad wouldn't visit the city that often as it was a day trip away from the far
 
 You're seeing where this is going, right?!
 
-Yes, it was my Aunt Peggy who introduced my mum to my dad!  My very being is down to the probabilities of my aunt and mum being born around the same time, working in the same place at the same time, my dad seeing my mum during one of his few visits to the city and asking for an introduction from his sister, going on a date, getting married, etc., etc.
+Yes, it was my Aunt Peggy who introduced my mum to my dad!  My very being is down to the probabilities of my aunt and mum being born around the same time, working in the same place at the same time, my dad seeing my mum during one of his few visits to the city and asking his sister to introduce him, going on dates, getting engaged, getting married, etc., etc.
 
-It's all down to minuscule probabilities, but my Aunt Peggy is at the centre of it.  She had been very sick and in pain the last few years and I had spoken to her just before Christmas 2022 - she sounded very old and frail, which was very different to my previous chat with her, a few months prior.  I wrote a letter after Christmas highlighting how and why she was so important to me, but I delayed sending it ... then she went into hospice in January and passed away not even two weeks later.
+It's all down to minuscule probabilities, but my Aunt Peggy is at the centre of it.  She had been very sick and in pain the last few years and I had spoken to her just before Christmas 2022 - she sounded very old and frail, which was very different to my previous chat with her, only a few months earlier.  I wrote a letter after Christmas highlighting how and why she was important to me, but I delayed sending it ... then she went into hospice in January and passed away not even two weeks later.
 
 There are so many lessons to glean from this - your life, your very existence, is nothing short of a (mathematical) miracle, so be grateful every day for the opportunities it presents; and don't wait to say "I love you" to those who are important and special in your life.
 
-What else happened?  I finally burst my self-imposed COVID bubble (later than most) and had drinks and a bite to eat with some colleagues from work in January ... and did the same again a week later with a bunch of former colleagues!  It was really, really nice to get out of the damn house!!
+What else happened?  I finally burst my self-imposed COVID bubble (later than most) and had drinks and a bite to eat with some colleagues from work in January ... and did the same again a week later with a larger group of former colleagues!  It was really, really nice to get out of the damn house!!
 
 ### Spring (Mar - Jun)
 
-In late April, about 60 members (split across three groups) from my extended work team converged on Toronto for three days.  Although I had worked in the office for about six weeks in early 2020, it was just before lockdown.  The majority of the team was hired after that, so I'd never met most of them.  It was really great to finally meet them face-to-face!
+In late April, about 60 members (split across three groups) from my extended work team converged on Toronto for three days.  I had worked in the office for about six weeks in early 2020, just before lockdown.  The majority of the team was hired after that, so I'd never met most of them.  It was really great to finally meet them face-to-face!
 
-Then May 4 happened, and Shopify laid off 20% of its work force.  Our own team was hit pretty hard - about 25%, including my manager, and several of the colleagues I had literally just met.
+Then May 4 happened, and Shopify laid off 20% of its work force.  Our own team was hit pretty hard - about 25%, including my manager, and several of the colleagues I had literally just met. 😢
 
-And then I was asked if I wanted to move to a different team, because business priorities demanded a reshuffle of resources.  I was conflicted - I really liked the team I was with, and enjoyed the work ... but I'd also been in the same area for over three years and while I'd learned lots, there's a lot more to Shopify, lots more areas to learn, so I said yes, and started in a new team in June, right after our first family vacation since 2019.
+Shortly afterwards, I was asked if I wanted to move to a different team, because business priorities demanded a reshuffle of resources.  I was conflicted - I really liked the team I was with, and enjoyed the work ... but I'd also been in the same area for over three years and while I'd learned lots, there's a lot more to Shopify, lots more areas to learn.  So, I said yes, and started in a new team in June, right after our first family vacation since 2019.
 
-The vacation was nothing exotic - we went to Orlando (again!) and to Universal Studios (again!).  The big difference between this visit and the last time is that the boys are that much older and therefore tall enough to go on *all* the rides.  Which is exactly what my youngest did ... many, many times ... and dragged his sunburned old man with him!  I lost count of the number of times we did the *Hollywood Rip Ride Rocket*, the *Incredible Hulk Coaster*, or *Jurassic World VelociCoaster* 😬 
+The vacation was nothing exotic - we went to Orlando (again!) and to Universal Studios (again!).  The big difference between this visit and the previous time is that the boys are that much older and therefore tall enough to go on *all* the rides.  Which is exactly what my youngest did ... many, many times ... and dragged his sunburned old man with him!  I lost count of the number of times we did the *Hollywood Rip Ride Rocket*, the *Incredible Hulk Coaster*, or *Jurassic World VelociCoaster* 😬
 
-We had a really enjoyable week, a fun vacation to remember.  And this was despite Air Canada's best attempt to sour it on the return journey - multiple cancelled flights, an overnight stay in a dumpy hotel near Charlotte, North Carolina, and a journey from Orlando to Toronto that lasted about 19 hours, instead of the original 2½ hour direct flight.  At the end, we were just happy to be home!
+We had a really enjoyable week, a fun vacation to remember.  And this was despite Air Canada's best attempt to sour it on the return journey - our direct flight home became three flights, the first of which got delayed and would have missed the second flight, and the last flight also got cancelled before we even got on the first flight. 🤦🏼‍♂️  It was a mess and resulted in a return trip that lasted about 19 hours, instead of the original 2½ hours.  In the end, we were just happy to be home!
 
 ### Summer (Jun - Sep)
 
@@ -49,9 +47,9 @@ And of course, back to school - Éamon changed high schools this year due to ava
 
 ### Autumn ... or Fall! (Sep - Dec)
 
-Start of school means start of cross-country season ... although Aidan prefers sprinting to long distance and cross-country, he *wanted* to do cross-country this year, without any prodding from his "parental units".  He did well - he came third in one of the warm up events, then first in another, and then came first again (out of 62) in the meet for his school's area! In the regional final two weeks later, he came 19th out of 100+ runners - needless to say, he was disappointed but his mum and I are really proud of him!
+Start of school means start of cross-country season. Although Aidan prefers sprinting to long distance and cross-country, he *wanted* to do cross-country this year, without any prodding from his "parental units".  He did well - he came third in one of the warm up events, then first in another, and then came first again (out of 62) in the meet for his school's area! In the regional final two weeks later, he came 19th out of 100+ runners - while he was disappointed, his mum and I are really proud of him!
 
-Then it was the school volleyball team ... and cricket team ... 🤦‍♂️ 
+Then it was the school volleyball team ... and cricket team ... 🤦🏼‍♂️ 
 
 What else happened?  Oh yeah, I had a cardiac procedure!  In 2018, I was diagnosed with paroxysmal atrial fibrillation (let's just go with A.Fib.!) and have been monitoring it ever since.  In my case, there's an elevated risk of blood clots but it's essentially considered a nuisance condition - when I'm in A.Fib., I can feel the irregular rhythm in my chest and it's just annoying and uncomfortable until it returns to a regular rhythm (that's the paroxysmal part - it's not permanent).
 
@@ -65,18 +63,19 @@ Anyway, I got put on the waitlist in January 2023, with an expected wait time of
 
 I had two episodes of A.Fib. the week after the procedure which was really disappointing but I've not noticed any since then.  I was supposed to wear a holter monitor (a mini EKG machine) for fourteen days in November and then have a follow-up appointment with the "electrician" in December but ...
 
-... I got COVID 🤦‍♂️   We managed to avoid it for almost four years ... oh well. 🤷‍♂️  Susan got it too, a few days after me ... the boys seemed to have escaped.  I don't appear to have any lasting effects; Susan's sense of smell still hasn't fully returned, which is both annoying and a bit concerning, but not uncommon.
+... I got COVID 🤦🏼‍♂️   We managed to avoid it for almost four years ... oh well. 🤷🏼‍♂️  Susan got it too, a few days after me ... the boys seemed to have escaped.  I don't appear to have any lasting effects; Susan's sense of smell still hasn't fully returned, which is both annoying and a bit concerning, but not uncommon.
 
-I finally wore the holter monitor over Christmas and my follow-up with the cardiologist was in mid-January ... and, according to my "electrician" it was a success!  My heart was in A.Fib. a total of zero percent for the 14 days I was wearing the monitor, compared to 28% when I previously wore a monitor, prior to the procedure.
+I finally wore the holter monitor over Christmas and my follow-up with the "electrician" was in mid-January ... and, according to him, it was a success!  My heart was in A.Fib. a total of *zero percent* for the 14 days I was wearing the monitor, compared to 28% when I previously wore a monitor, prior to the procedure.
 
 ### Reading
 
-I managed to get through almost 40 books last year.  I've been meaning to read Alduos Huxley's novel "Brave New World" (1928) for long time and finally got around to it last year.  If one squints enough at modern society, there are enough approximate similarities between his vision of the future (from 1928!) and today's dystopia to make it a little uncanny.
+I managed to get through almost 40 books last year.  I've been meaning to read Alduos Huxley's novel "Brave New World" (1928) for long time and finally got around to it last year.  If one squints enough at modern society, there are enough approximate similarities between his vision of the future (from 1928!) and today's dystopia to make it a little uncanny. We have much of the technology to create the society depicted in the book.
 
 The other main books that I found impactful (these are non-fiction):
+
 - 📖 *Life 3.0: Being Human in the Age of Artificial Intelligence* - Max Tegmark
   
-  There's a lot of talk about AI these days (understatement of 2023!) but I first read Max Tegmark's "Life 3.0" book back in 2018 and found it quite good.  Re-reading it this year, it turns out to be *very* interesting, and prescient ... well worth the re-visit this year in light of ChatGPT, GPT-4, Gemini, etc.
+  There's a lot of talk about AI these days (understatement of 2023!) but I first read Max Tegmark's book in 2018 and found it quite good.  Re-reading it this year, it turns out to be *very* interesting, and prescient ... well worth the re-visit this year in light of ChatGPT, GPT-4, Gemini, etc.
 
 - 📖 *Our Mathematical Universe: My Quest for the Ultimate Nature of Reality* - Max Tegmark
   
@@ -92,15 +91,15 @@ The other main books that I found impactful (these are non-fiction):
 
   A more recent book about AI (and synthetic biology) from one of the founders of DeepMind and, more recently, Inflection AI. It's another book I picked up after listening to a podcast interview between Mustafa and Scott Galloway.
   
-  It covers quite well (IMHO) the increasingly rapid development in two keys areas (and several associated related areas) that may very well impact society quite deeply in the years and decades ahead.  It paints a fairly complete picture, the good and the bad, from a leader in the AI field who leans more to the optimistic side (not a doomsayer) but he doesn't shy away from describing how it could go wrong too.
+  It covers quite well (IMHO) the increasingly rapid development in two keys areas (and several associated related areas) that may very well impact society quite deeply in the years and decades ahead.  It paints a fairly complete picture, the potential good and bad, from a leader in the AI field who leans more to the optimistic side (not a doomsayer) but he doesn't shy away from describing how it could go wrong too.
 
   > As an aside - if you haven't heard of DeepMind before (now a Google subsidiary), check out the documentary "AlphoGo" on Netflix about how DeepMind's AlphaGo AI program beat one of the top-ranked Go players in the world.
 
 - 📖 *Humankind: A Hopeful History* - Rutger Bregman, translated by Erica Moore, Elizabeth Manton
   
-  Technically, this is on my list as a 2014 book, in that I started it in December and finished it in January! Yet another book from an author who was interviewed on Scott Galloway's podcast!!
+  Technically, this is on my list as a 2014 book, as I started it in December but finished it this month! Yet another book from an author who was interviewed on Scott Galloway's podcast!!
   
-  If you pay any attention to the news media, you'd be forgiven for thinking that the world is doomed and humanity is f....screwed.  There are have even been studies that seem to highlight the innate selfishness and cruelty of our species - the Milgrim experiment, the Stanford prison experiment, the broken windows theory of policing, etc.
+  If you pay any attention to the news media, you'd be forgiven for thinking that the world is doomed and humanity is f....screwed. 🤨  There are studies that seem to highlight the innate selfishness and cruelty of our species - the Milgrim experiment, the Stanford prison experiment, the broken windows theory of policing, etc.
   
   In an effort to highlight that there's a lot to be hopeful about when it comes to thinking about humanity, the author dispels these iconic stories and studies as either hoaxes or just really bad science.  At one point during reading it, it almost felt like a vendetta against some of Malcolm Gladwell's writing, who covered several of these stories in his books!
 
@@ -108,7 +107,7 @@ The other main books that I found impactful (these are non-fiction):
 
 ### Wrapping up
 
-If you've made it this far, you've apparently got way too much time on your hands, and you should probably get a hobby!  Other from that, thank you for sticking with me.
+If you've made it this far, well, thank you ... you've apparently got way too much time on your hands, and you should probably get a hobby!
 
 The night before my ablation procedure, I sent my brother and sister in Ireland a message on WhatsApp:
 
@@ -116,7 +115,7 @@ The night before my ablation procedure, I sent my brother and sister in Ireland 
 
 That night, I hugged my boys a bit tighter and in the morning hugged Susan a bit longer before leaving for the hospital.  It was a sobering thought that the procedure involved messing about with my heart.
 
-In 2019, when my family and I visited Ireland after a gap of seven years, my siblings and I agreed not to leave it so long between visits and that we'd visit each other in alternate years ... and then the pandemic happened!  Since my sister visited in 2023, it's my turn to visit my brother and sister this year.
+In 2019, when my family and I went to Ireland after a gap of seven years, my siblings and I agreed not to leave it so long between trips and that we'd visit each other in alternate years ... and then the pandemic happened!  Since my sister visited in 2023, it's my turn to visit my brother and sister this year.
 
 I turn 50 later in the year and if I'm lucky enough to have 25-30 more years where I'm healthy enough to travel, that's just 25-30 more times I'll get to see my sister.  It's only half that for my brother - he can't afford to take time away from the farm to come visit us in Canada, so we'll only see each other in person when we go to Ireland.
 
