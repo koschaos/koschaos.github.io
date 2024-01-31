@@ -1,5 +1,5 @@
 
-<small>January 18, 2024</small>
+<small>January 31, 2024</small>
 
 ## Happy (belated) New Year, 2024!
 
@@ -74,11 +74,11 @@ I finally wore the holter monitor over Christmas and my follow-up with the cardi
 I managed to get through almost 40 books last year.  I've been meaning to read Alduos Huxley's novel "Brave New World" (1928) for long time and finally got around to it last year.  If one squints enough at modern society, there are enough approximate similarities between his vision of the future (from 1928!) and today's dystopia to make it a little uncanny.
 
 The other main books that I found impactful (these are non-fiction):
-- :book: *Life 3.0: Being Human in the Age of Artificial Intelligence* - Max Tegmark
+- 📖 *Life 3.0: Being Human in the Age of Artificial Intelligence* - Max Tegmark
   
   There's a lot of talk about AI these days (understatement of 2023!) but I first read Max Tegmark's "Life 3.0" book back in 2018 and found it quite good.  Re-reading it this year, it turns out to be *very* interesting, and prescient ... well worth the re-visit this year in light of ChatGPT, GPT-4, Gemini, etc.
 
-- :book: *Our Mathematical Universe: My Quest for the Ultimate Nature of Reality* - Max Tegmark
+- 📖 *Our Mathematical Universe: My Quest for the Ultimate Nature of Reality* - Max Tegmark
   
   Before I read this book, I slogged my way through David Deutsch's "The Fabric of Reality" after listening to David on Sam Harris' podcast and thought it would be an excellent way to stretch my view on the world, the universe, etc.
   
@@ -88,7 +88,7 @@ The other main books that I found impactful (these are non-fiction):
   
   And just to prove to myself that I'm a complete idiot, I then decided to slog my way through David Deutsch's "The Beginning of Infinity" ... it wasn't any better 🤦🏼‍♂️
 
-- :book: *The Coming Wave: Technology, Power, and the Twenty-First Century's Greatest Dilemma* - Mustafa Suleyman, with Michael Bhaskar
+- 📖 *The Coming Wave: Technology, Power, and the Twenty-First Century's Greatest Dilemma* - Mustafa Suleyman, with Michael Bhaskar
 
   A more recent book about AI (and synthetic biology) from one of the founders of DeepMind and, more recently, Inflection AI. It's another book I picked up after listening to a podcast interview between Mustafa and Scott Galloway.
   
@@ -97,7 +97,7 @@ The other main books that I found impactful (these are non-fiction):
   > [!TIP]
   > As an aside - if you haven't heard of DeepMind before (now a Google subsidiary), check out the documentary on Netflix called "AlphaGo" about how DeepMind's AlphaGo AI program beat one of the top-ranked Go players in the world.
 
-- :book: *Humankind: A Hopeful History* - Rutger Bregman, translated by Erica Moore, Elizabeth Manton
+- 📖 *Humankind: A Hopeful History* - Rutger Bregman, translated by Erica Moore, Elizabeth Manton
   
   Technically, this is on my list as a 2014 book, in that I started it in December and finished it in January! Yet another book from an author who was interviewed on Scott Galloway's podcast!!
   
