@@ -1,4 +1,4 @@
-<small>February ??, 2025</small>
+<small>February 20, 2025</small>
 
 ## Happy (belated) New Year, 2025!
 
