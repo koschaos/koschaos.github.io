@@ -1,4 +1,4 @@
-<small>February 20, 2025</small>
+<small>February 21, 2025</small>
 
 ## Happy (belated) New Year, 2025!
 
@@ -30,7 +30,7 @@ Also in there was also a trip to a meet in Ohio, at an indoor 300m facility that
 
 During his first semester in the 2023-2024 school year, Éamon took a keyboarding class, with a very nice teacher who really encouraged him.  That same teacher was also convinced that Éamon has "perfect pitch", the ability to recognize notes without reference to other notes or tones.  At one point, the rest of us played various tunes and asked Éamon what key they were in ... until we realized that he could be telling us anything and we wouldn't know! 🤷 Fortunately, the power of Google usually confirmed his answer as correct for almost every tune!!
 
-So, enquiries were made about potential music teachers who might be able to work with him, and in February he started learning piano with Ms. Amanda!  We've had a Casio keyboard at home for a few years ... one of those Costco impulse purchases on my part - "wow, that seems like a deal!" - with the intent being for me to learn (ha!) to inspire Éamon to learn.  Well, the second part of that worked out, without the toil of the first part ... I would still like to learn but, you know, time ... and effort! 😞
+So, enquiries were made about potential music teachers who might be able to work with him, and in February he started learning piano with Ms. Amanda!  We've had a Casio keyboard at home for a few years ... one of those Costco impulse purchases on my part - "wow, that seems like a deal!" - with the intention of me learning to play (ha!) to inspire Éamon to learn.  Well, the second part of that worked out, without the toil of the first part ... I would still like to learn but, you know, time ... and effort! 😞
 
 By around May, the lessons began to require a piano pedal, and more keys (the keyboard has only 76 keys vs. a full piano's 88 keys) ... so some savings were put aside for a "proper" 88-key digital piano with pedals.  I was worried that the piano lessons, and the subsequent daily practice required, might dampen his enthusiasm for playing.  So far it hasn't - he plays daily without prompting, and if he misses a day (because we might be away, etc.), he practices twice another day!
 
@@ -116,7 +116,7 @@ Well, not quite.  Susan used to be a Lia Sophia sales rep (one of these multi-le
 
 Now, ask me, "did Aidan set up the displays and unbox the jewellery to put on those displays?"  Ask me, "did he stand at the booth to make whatever sales were made that day?"
 
-If you guessed "no" and "no", you'd be correct! 👏 No, those tasks fell to his dumbass father, while he went off to attended presentations, and Q&A sessions, and games with the other students.
+If you guessed "no" and "no", you'd be correct! 👏 No, those tasks fell to his dumbass father, while he went off to attend presentations, and Q&A sessions, and play games with the other students.
 
 *Except* for this sale ...
 
