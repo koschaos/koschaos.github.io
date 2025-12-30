@@ -38,28 +38,28 @@ While the company is obviously different (it's been seven years, after all!), pe
 
 ### Vacation
 
-Because of a bit of Canadian pride ("elbows up"), we did not venture to Florida this year, much to Éamon's consternation.  We've gone there every Spring since 2013(?), except for the pandemic years.  We were able to explain to him why we couldn't go during the pandemic years (basically, "we not allowed!") but deciding to not go voluntarily was a little more challenging to explain.
+Because of a bit of Canadian pride (`#ElbowsUp`), we did not venture to Florida this year, much to Éamon's consternation.  We've gone there every spring since 2012, except for the pandemic years.  At least for the pandemic years we were able to explain to him why we couldn't ("we not allowed!") but deciding to not go voluntarily was a little more challenging to explain.
 
 Instead, we decided to head to Halifax during the summer, and convinced my sister in Ireland to meet us there.  She'd not been there, the boys hadn't been there, and Susan and I hadn't been there since before the boys were born.
 
-Everything was looking good until the Air Canada flight attendants went on strike 🤦  After the fiasco with Air Canada two years ago on the return flight from Florida, we didn't want to fly with them again, but their arrival times lined up better my sister's arrival from Ireland, so we said "what the heck".  In the days leading up to it, we paid closer attention to the news and, sure enough, they gave their 72 hour notice on the Wednesday before our Saturday morning flight.  Well, f%@&!
+Everything was looking good until the Air Canada flight attendants went on strike 🤦  After the fiasco with Air Canada two years ago on the return flight from Florida, we didn't want to fly with them again, but their arrival times lined up better with my sister's arrival from Ireland, so we said "what the heck".  In the days leading up to it, we paid closer attention to the news and, sure enough, they gave their 72 hour notice on the Wednesday before our Saturday morning flight.  Well, f%@&! 😡
 
-We knew there would be few other flights available so our only options were to cancel (which wasn't fair on my sister) or to drive.  In anticipation of driving, Susan suggested to get the car serviced in advance.  Wouldn't you know it, the brakes needed a full service!  In fairness, the kilometers were at that point where it really did need to be done, and, given that we were facing a round-trip of about 4,000 km ... it was probably a good idea to get them done!  It just sucked to have a very hefty bill before our trip ... a trip where we'd have to spend on some extra hotels for the journey, etc.
+We knew there would be few other flights available so our only options were to cancel (which wasn't fair on my sister) or to drive.  In anticipation of driving, Susan suggested to get the car serviced in advance.  Wouldn't you know it, the brakes needed a full service!  In fairness, the kilometers were at that point where it really did need to be done, and, given that we were facing a round-trip of about 4,000 km ... it was probably a good idea to get the brakes serviced!  Still, it just sucked to have a very hefty bill before our trip ... a trip where we'd have to spend on some extra hotels for the journey, etc.
 
-The road trip wasn't bad really.  We split it up into two days on the way there and three days on the way back, and it was very straight-forward.  The road surface was mostly good, except for a section of the highway in Quebec. Plenty of batteries, movies loaded on to an iPad, and Susan and I listened to a bunch of episodes of the SmartLess podcast (mindless entertainment!).
+The road trip wasn't bad really.  We split it into two days on the way there and three days on the way back, and it was very straight-forward.  The road surface was mostly good, except for a section of the highway in Quebec.  Plenty of batteries to power phones, movies loaded on to an iPad, and Susan and I listened to a bunch of episodes of the SmartLess podcast (mindless entertainment!).
 
 In Halifax, we did a bunch of museums, got to see the Bluenose II in Lunenberg, went to see the ubiquitous Peggy's Cove lighthouse, and ate some ridiculously delicious seafood chowder in Mahone Bay!  The weather was also very nice.  I was amazed at the amount of construction - buildings, neighbourhoods, highways - around the city since we had last been there.  It seems like a city expanding in a hurry.
 
 ### Reading 📖
 
-If there's a theme to the books I've read/listened to in 2025, it's *history*.  I've gone through (X?) books this past year, with several from the same few authors:
+If there's a theme to the books I've read/listened to in 2025, it's *history*.  I've gone through 34 non-fiction books this past year (not quite - there's one I didn't finish!), with several from the same few authors:
 
 - David McCullough (5): The Wright Brothers, The Path Between the Seas, Truman, John Adams, History Matters
 - Walter Isaacson (5): The Code Breaker, Leonardo da Vinci, Kissinger, Benjamin Franklin, Einstein
 - Ben Macintyre (5): Prisoners of the Castle, For Your Eyes Only, The Siege, The Spy and the Traitor, Agent Sonya
 - Doris Kearns Goodwin (3): No Ordinary Time, The Bully Pulpit, Leadership
 
-All four authors are fantastic writers, though Macintyre is probably my current favourite - he's a great storyteller and when he narrates his own audiobooks, they're "bloody marvelous" (say it with a British accent!).
+All four authors are fantastic writers, though Macintyre is probably my current favourite - he's a great storyteller and when he narrates his own audiobooks, they're just marvelous!
 
 So, putting those books aside and selecting others as favourites of 2025:
 
@@ -71,12 +71,26 @@ So, putting those books aside and selecting others as favourites of 2025:
 
   The fourth and final installment in his Stoic Virtues series, Holiday pulls stories from the lives of ??? to discuss the virtue of wisdom.  Like his many other books, it's a tapestry woven from the lives of interesting people and, as always, very well put together.
 
+- 📖 *The Body: A Guide for Occupants* - Bill Bryson
+
+  It's been years since I read a Bill Bryson book.  I think the last one was *A Short History of Nearly Everything*, which is brilliant and witty - *The Body* similarly doesn't disappoint.  Lots of interesting bits about the body and what we know (and what we don't!) but I suppose my main takeaway is how some of the scientists who made great discoveries in medicine and physiology were not very nice people.  For example:
+
+  - Henry Gray, he of *Gray's Anatomy* (the book!) fame, argued with the publishers to reduce the size of the characters of Henry Vandyke Carter's name, who was the illustrator of the book and who performed many (if not most) of the dissections required to create the illustrations.  It's arguably why it's known to us today as *Gray's Anatomy* and not *Gray's and Carter's Anatomy*!
+
+  - The discovery of insulin is heralded as one of the great contributions of Canada to the world of medicine, with the 1923 Nobel Prize in Physiology or Medicine being awarded to Frederick Banting and John Macleod.  Banting was the one with the idea and he explained his idea to Macleod who was Professor of Physiology at the University of Toronto.  Macleod was skeptical (Banting had no experience in research) but nonetheless offered Banting space in his lab and a lab assistant (Charles Best).  James Collip, a biochemist, was added later to help with the purification process of extracting insulin.
+
+    Note that the Nobel Prize went to Banting and Macleod.  Apparently Macleod wasn't even in Canada most of the time but because he was the head of the lab involved, his name was added to the paper, per protocol.  Banting was upset that Best wasn't included, so shared half his Nobel Prize with him. Macleod did likewise with Collip.  However, when it came to the patent process, Collip intended to dump the others to claim the patent for himself (apparently, Banting and Best didn't like working with him), and shortly after there was a falling out between Banting and Best too, so within a couple of years of the discovery, none of them were talking to each other. 🤦
+
+    And there were plenty of other examples of scientists being thoroughly insenstive to people throughout the book!  It's a good book!!
+
 
 ### Holiday experiences
 
-Following last year's trip to see the movie *Elf* at Roy Thomson Hall, with the Toronto Symphony Orchestra playing the soundtrack live, we returned to see *Home Alone* this year, albeit only with Éamon (*Home Alone* IS his favourite Christmas movie!).  And like last year, it was very enjoyable.  The second half of the performance included a choir (there's a choir scene in a church in the movie) and that was really amazing.
+Following last year's trip to see the movie *Elf* at Roy Thomson Hall, with the Toronto Symphony Orchestra playing the soundtrack live, we returned to see *Home Alone* in early December, albeit only with Éamon (*Home Alone* IS his favourite Christmas movie!).  And like last year, it was very enjoyable.  The second half of the performance included a choir (there's a choir scene in a church in the movie) and that was really amazing.
 
-The following night, we all went to see the magician/comedian Justin Willman.
+The following night, we all went to see magician/comedian Justin Willman's *One for the Ages* tour.  That was a lot of fun!
+
+Earlier, in September (so not really a "Christmas holiday" experience!), we also went to see Gabriel "Fluffy" Iglesias - that was a very funny night!  If you haven't seen his comedy specials on Netflix, you should check them out!!
 
 ### Onwards
 
@@ -84,10 +98,14 @@ From last year ...
 
 > I did a crappy job in reaching out to folks in 2024 ... sorry about that. I'll try to do better in 2025.
 
-Nope!  Did even worse in 2025 😞
+Nope!  Did even worse in 2025 😞  I guess I'll have to try to double-down on the effort in 2026.
 
+Another theme for 2025 was recovery, like Aidan's recovery and rehabilitation from injury already mentioned.  Since both boys have finished their braces/aligners by the start of the year, they also had their wisdom teeth removed, surgically, which means about a week of recovery each and then many more weeks of oral care to avoid complications.
 
-Take care of yourself and your loved ones and please let me know how 2025 was for you and to catch up in general.
+Then, in mid-November, Éamon came home with the flu, which Susan promptly got, and that knocked them both sideways for about a week, with a long-lingering cough, only for both of them to be knocked sideways with it again in mid-
+December ... they're still recovering from that bout of flu.  How Aidan and I didn't get it is kind of a miracle!
+
+Anyway, if you've made it this far, thanks!  Take care of yourself and your loved ones and please let me know how 2025 was for you and to catch up in general.
 
 Regards,<br/>
 Kevin.
