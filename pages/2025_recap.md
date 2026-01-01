@@ -28,13 +28,15 @@ Unfortunately, while training with the school cross-country team at the end of 2
 
 The indoor track season is now underway and he had his first meet in mid-December ... he knocked over half-a-second off his previous PB in the 200m, so ... 🤞
 
+As for Aidan and music, he attended one morning practice for band - he was so early for it, the teacher wasn't even there yet - and then decided that he didn't want to do it any more 🤦. In November, like any delusional teenager, he joined a band, as the singer, despite never singing in public before!  Some of the band members wanted to participate in the talent show in December despite a) never practicing together as there was someone always absent, b) their singer never practicing because the microphones in the practice room didn't work and c) arguably not having a lick of talent between them!  With this historic track record, Aidan decided to quit the band when he learned they wanted to do a cover of a "god-awful emo song from some band named Weezer" 🤣. Can you really quit a band that never once practiced together ... 🤔
+
 ### Job hunting ... again!
 
 Towards the end of 2024, the team I was on was split into two - my previous manager retained a little over half the team, and me and a few others started reporting to a new manager.  In March, my former manager was let go, in April one of my colleagues left, and in May, I was also "right-sized", to use the euphemism.  Unlike 2022 or 2023 when Shopify did large 10% or 20% of workforce layoffs, these days there's a steady stream of layoffs, as the company is "all-in" on AI and opportunities to cut costs are paramount.  I chatted with my previous manager in early December and he mentioned there's been 8 or 9 director-level folks who're no longer with Shopify (including our own former director) and some very senior folk are also no longer there.  It's a company undergoing a major shift in culture ... and perhaps not for the better.
 
 So, in May, I started the job hunt again.  Several of the folks reading this already know, as I emailed asking to keep an eye out for anything they thought might be suitable.  In June, one of them replied asking, "hey, I've got a problem, would you mind doing a short term contract to take a look?"  I said, "sure, would love to" ... and thus I ended up working at TELUS, again!
 
-While the company is obviously different (it's been seven years, after all!), perhaps because it's with a team I was part of for so long, it's been surprisingly easy to slot back in, in a welcoming, comfortable sort of way.  Anyway, thanks to J&J (you know who you are!!) for keeping me out of trouble for the second half of the year!
+While the company is obviously different (it's been seven years, after all!), it's been surprisingly easy to slot back in, in a welcoming, comfortable sort of way - maybe because it's with a team I was part of for so long.  Anyway, thanks to J&J (you know who you are!!) for keeping me out of trouble for the second half of the year!
 
 ### Vacation
 
@@ -44,15 +46,15 @@ Instead, we decided to head to Halifax during the summer, and convinced my siste
 
 Everything was looking good until the Air Canada flight attendants went on strike 🤦  After the fiasco with Air Canada two years ago on the return flight from Florida, we didn't want to fly with them again, but their arrival times lined up better with my sister's arrival from Ireland, so we said "what the heck".  In the days leading up to it, we paid closer attention to the news and, sure enough, they gave their 72 hour notice on the Wednesday before our Saturday morning flight.  Well, f%@&! 😡
 
-We knew there would be few other flights available so our only options were to cancel (which wasn't fair on my sister) or to drive.  In anticipation of driving, Susan suggested to get the car serviced in advance.  Wouldn't you know it, the brakes needed a full service!  In fairness, the kilometers were at that point where it really did need to be done, and, given that we were facing a round-trip of about 4,000 km ... it was probably a good idea to get the brakes serviced!  Still, it just sucked to have a very hefty bill before our trip ... a trip where we'd have to spend on some extra hotels for the journey, etc.
+We knew there would be few other flights available so our only options were to cancel (which wasn't fair on my sister) or to drive.  In anticipation of driving, Susan suggested to get the car serviced.  Wouldn't you know it, the brakes needed a full service!  In fairness, the kilometers on the car were at that point where it is supposed to be done anyway but still, it just sucked to have a very hefty bill before our trip ... a trip where we'd have to spend on some extra hotels for the journey, etc.
 
-The road trip wasn't bad really.  We split it into two days on the way there and three days on the way back, and it was very straight-forward.  The road surface was mostly good, except for a section of the highway in Quebec.  Plenty of batteries to power phones, movies loaded on to an iPad, and Susan and I listened to a bunch of episodes of the SmartLess podcast (mindless entertainment!).
+The road trip wasn't bad, really.  We split it into two days on the way there and three days on the way back, and it was very straight-forward.  The road surface was mostly good, except for a section of the highway in Quebec.  Plenty of batteries to power phones, movies loaded on to an iPad, and Susan and I listened to a bunch of episodes of the SmartLess podcast (mindless entertainment!).
 
 In Halifax, we did a bunch of museums, got to see the Bluenose II in Lunenberg, went to see the ubiquitous Peggy's Cove lighthouse, and ate some ridiculously delicious seafood chowder in Mahone Bay!  The weather was also very nice.  I was amazed at the amount of construction - buildings, neighbourhoods, highways - around the city since we had last been there.  It seems like a city expanding in a hurry.
 
 ### Reading 📖
 
-If there's a theme to the books I've read/listened to in 2025, it's *history*.  I've gone through 34 non-fiction books this past year (not quite - there's one I didn't finish!), with several from the same few authors:
+If there's a theme to the books I've read/listened to in 2025, it's *history*.  I've gone through 33 non-fiction books this past year (not quite - there's one I didn't finish!), with several from the same few authors:
 
 - David McCullough (5): The Wright Brothers, The Path Between the Seas, Truman, John Adams, History Matters
 - Walter Isaacson (5): The Code Breaker, Leonardo da Vinci, Kissinger, Benjamin Franklin, Einstein
@@ -69,7 +71,7 @@ So, putting those books aside and selecting others as favourites of 2025:
 
 - 📖 *Wisdom Takes Work* - Ryan Holiday
 
-  The fourth and final installment in his Stoic Virtues series, Holiday pulls stories from the lives of ??? to discuss the virtue of wisdom.  Like his many other books, it's a tapestry woven from the lives of interesting people and, as always, very well put together.
+  The fourth and final installment in his Stoic Virtues series, Holiday pulls stories from the lives of Elon Musk (in a cautionary way!), Abraham Lincoln, and ??? to discuss the virtue of wisdom.  Like his many other books, it's a tapestry woven from the lives of interesting people and, as always, very well put together.
 
 - 📖 *The Body: A Guide for Occupants* - Bill Bryson
 
@@ -81,7 +83,7 @@ So, putting those books aside and selecting others as favourites of 2025:
 
     Note that the Nobel Prize went to Banting and Macleod.  Apparently Macleod wasn't even in Canada most of the time but because he was the head of the lab involved, his name was added to the paper, per protocol.  Banting was upset that Best wasn't included, so shared half his Nobel Prize with him. Macleod did likewise with Collip.  However, when it came to the patent process, Collip intended to dump the others to claim the patent for himself (apparently, Banting and Best didn't like working with him), and shortly after there was a falling out between Banting and Best too, so within a couple of years of the discovery, none of them were talking to each other. 🤦
 
-    And there were plenty of other examples of scientists being thoroughly insenstive to people throughout the book!  It's a good book!!
+  And there were plenty of other examples of scientists being thoroughly insenstive to people throughout the book!  It's a good book!!
 
 
 ### Holiday experiences
