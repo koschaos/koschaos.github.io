@@ -19,12 +19,9 @@ I don't know the impact the current occupant of the White House has had in Irela
 
 There's not much to report here. Éamon continued his piano practice and participated in the end-of-school-year recital that his teacher hosts in June.
 
-<video controls width="600" poster="./attachments/Eamon_piano_recital_poster.jpg" muted>
-  <source src="./attachments/Eamon_piano_recital.mp4" type="video/mp4">
-  Your browser doesn't support the video tag.
-</video>
+<img src="./attachments/Eamon_piano_recital_poster.jpg" alt="Eamon recital" width="600"/>
 
-Unfortunately, while training with the school cross-country team at the end of 2024, Aidan injured his foot, then had issues with a knee, then a hip, then the other hip ... he basically spent the majority of the track & field season injured and unable to compete.  All because the geniuses leading the school cross country team trained on *pavement*, rather than grass ... you know, the stuff that cross-country runners actually run on!  For the outdoor season, Aidan didn't participate at all in any of the competitions.  There was a lot of sports massage/physiotherapy to try to fix him up!
+Unfortunately, while training with the school cross-country team at the end of 2024, Aidan injured his foot, then had issues with a knee, then a hip, then the other hip ... he basically spent the majority of the track & field season injured and unable to compete.  All because the geniuses leading the school cross country team trained on *pavement*, rather than grass ... you know, the stuff that cross-country runners actually run on!  For the outdoor season, Aidan didn't participate in any of the competitions.  There was a lot of sports massage/physiotherapy to try to fix him up!
 
 The indoor track season is now underway and he had his first meet in mid-December ... he knocked over half-a-second off his previous PB in the 200m, so ... 🤞
 
@@ -77,7 +74,7 @@ So, putting those books aside and selecting others as favourites of 2025:
 
 - 📖 *Wisdom Takes Work* - Ryan Holiday
 
-  The fourth and final installment in his Stoic Virtues series, Holiday pulls stories from the lives of Elon Musk (in a cautionary way!), Abraham Lincoln, and ??? to discuss the virtue of wisdom.  Like his many other books, it's a tapestry woven from the lives of interesting people and, as always, very well put together.
+  The fourth and final installment in his Stoic Virtues series, Holiday pulls stories from the lives of Abraham Lincoln, Maya Angelou, Montaigne, and Elon Musk (in a cautionary way!) to discuss the virtue of wisdom.  Like his many other books, it's a tapestry woven from the lives of interesting people and, as always, very well put together.
 
 - 📖 *The Body: A Guide for Occupants* - Bill Bryson
 
