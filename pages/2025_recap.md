@@ -2,7 +2,7 @@
 
 ## Happy New Year, 2026!
 
-I hope you are doing well as we start 2026. Finally, I actually posted one of these on January 1! 😮‍💨
+I hope you are doing well as we start 2026. I actually posted one of these on January 1, finally! 😮‍💨
 
 I opened last year's message with ...
 
@@ -19,7 +19,7 @@ I don't know the impact the current occupant of the White House has had in Irela
 
 There's not much to report here. Éamon continued his piano practice and participated in the end-of-school-year recital that his teacher hosts in June.
 
-<video controls width="600" muted>
+<video controls width="600" poster="./attachments/Eamon_piano_recital_poster.jpg" muted>
   <source src="./attachments/Eamon_piano_recital.mp4" type="video/mp4">
   Your browser doesn't support the video tag.
 </video>
@@ -75,15 +75,13 @@ So, putting those books aside and selecting others as favourites of 2025:
 
 - 📖 *The Body: A Guide for Occupants* - Bill Bryson
 
-  It's been years since I read a Bill Bryson book.  I think the last one was *A Short History of Nearly Everything*, which is brilliant and witty - *The Body* similarly doesn't disappoint.  Lots of interesting bits about the body and what we know (and what we don't!) but I suppose my main takeaway is how some of the scientists who made great discoveries in medicine and physiology were not very nice people.  For example:
+  It's been years since I read a Bill Bryson book.  I think the last one was *A Short History of Nearly Everything*, which is brilliant and witty. *The Body* similarly doesn't disappoint.  Lots of interesting bits about the body and what we know (and what we don't!) but I suppose my main takeaway is how some of the scientists who made great discoveries in medicine and physiology were not very nice people.  For example:
 
-  - Henry Gray, he of *Gray's Anatomy* (the book!) fame, argued with the publishers to reduce the size of the characters of Henry Vandyke Carter's name, who was the illustrator of the book and who performed many (if not most) of the dissections required to create the illustrations.  It's arguably why it's known to us today as *Gray's Anatomy* and not *Gray's and Carter's Anatomy*!
+  - Henry Gray, he of *Gray's Anatomy* (the book!) fame, argued with the publishers to reduce the size of the characters of Henry Vandyke Carter's name, who was the illustrator of the book and who performed many (if not most) of the dissections required to create the detailed illustrations for which the book is famous.  It's arguably why it's known to us today as *Gray's Anatomy* and not *Gray's and Carter's Anatomy*!
 
-  - The discovery of insulin is heralded as one of the great contributions of Canada to the world of medicine, with the 1923 Nobel Prize in Physiology or Medicine being awarded to Frederick Banting and John Macleod.  Banting was the one with the idea and he explained his idea to Macleod who was Professor of Physiology at the University of Toronto.  Macleod was skeptical (Banting had no experience in research) but nonetheless offered Banting space in his lab and a lab assistant (Charles Best).  James Collip, a biochemist, was added later to help with the purification process of extracting insulin.
-
-    Note that the Nobel Prize went to Banting and Macleod.  Apparently Macleod wasn't even in Canada most of the time but because he was the head of the lab involved, his name was added to the paper, per protocol.  Banting was upset that Best wasn't included, so shared half his Nobel Prize with him. Macleod did likewise with Collip.  However, when it came to the patent process, Collip intended to dump the others to claim the patent for himself (apparently, Banting and Best didn't like working with him), and shortly after there was a falling out between Banting and Best too, so within a couple of years of the discovery, none of them were talking to each other. 🤦
-
-  And there were plenty of other examples of scientists being thoroughly insenstive to people throughout the book!  It's a good book!!
+  - The discovery of insulin is heralded as one of the great contributions of Canada to the world of medicine, with the 1923 Nobel Prize in Physiology or Medicine being awarded to Frederick Banting and John Macleod.  However, within a few years of the discovery the four people involved - Banting, Macleod, the lab assistant Charles Best and a biochemist named James Collip - had all fallen out with each other.  Macleod apparently wasn't really involved but because he was the head of the lab involved, his name was added to the paper and, as a result, he got recognized with the Nobel Prize.  Best wasn't acknowledged at all, which outraged Banting - he shared his Nobel Prize money with him.  Macleod did likewise with Collip, only for Collip to attempt to claim the purification patent for himself. In the end, none of them were talking to each other. 🤦
+  
+  And there were plenty of other examples of scientists being thoroughly insenstive to people throughout the book!  For the drama alone, it's a good book!!
 
 
 ### Holiday experiences
@@ -102,10 +100,9 @@ From last year ...
 
 Nope!  Did even worse in 2025 😞  I guess I'll have to try to double-down on the effort in 2026.
 
-Another theme for 2025 was recovery, like Aidan's recovery and rehabilitation from injury already mentioned.  Since both boys have finished their braces/aligners by the start of the year, they also had their wisdom teeth removed, surgically, which means about a week of recovery each and then many more weeks of oral care to avoid complications.
+Another theme for 2025 was recovery, like Aidan's recovery and rehabilitation from injury already mentioned.  Early in the year, both boys had finished their braces/aligners, so they also had their wisdom teeth removed, surgically.  Aidan in April, Éamon in September, which meant about a week of recovery each and then many more weeks of oral care to avoid complications.
 
-Then, in mid-November, Éamon came home with the flu, which Susan promptly got, and that knocked them both sideways for about a week, with a long-lingering cough, only for both of them to be knocked sideways with it again in mid-
-December ... they're still recovering from that bout of flu.  How Aidan and I didn't get it is kind of a miracle!
+In mid-November, Éamon came home with the flu, which Susan promptly got, and that knocked them both sideways for about a week, with a long-lingering cough.  In mid-December, both of them were knocked sideways with it again, and they're still recovering from that bout of flu.  How Aidan and I didn't get it is kind of a miracle!
 
 Anyway, if you've made it this far, thanks!  Take care of yourself and your loved ones and please let me know how 2025 was for you and to catch up in general.
 
