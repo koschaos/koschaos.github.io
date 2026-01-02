@@ -28,7 +28,13 @@ Unfortunately, while training with the school cross-country team at the end of 2
 
 The indoor track season is now underway and he had his first meet in mid-December ... he knocked over half-a-second off his previous PB in the 200m, so ... 🤞
 
-As for Aidan and music, he attended one morning practice for band - he was so early for it, the teacher wasn't even there yet - and then decided that he didn't want to do it any more 🤦. In November, like any delusional teenager, he joined a band, as the singer, despite never singing in public before!  Some of the band members wanted to participate in the talent show in December despite a) never practicing together as there was someone always absent, b) their singer never practicing because the microphones in the practice room didn't work and c) arguably not having a lick of talent between them!  With this historic track record, Aidan decided to quit the band when he learned they wanted to do a cover of a "god-awful emo song from some band named Weezer" 🤣. Can you really quit a band that never once practiced together ... 🤔
+As for Aidan and music, he attended one morning practice for band - he was so early for it, the teacher wasn't even there yet - and then decided that he didn't want to do it any more. 🤦  In November, like any delusional teenager, he joined a band, as the singer, despite never singing in public before!  Some of the band members wanted to participate in the talent show in December despite
+
+- never practicing together as there was always someone missing,
+- their singer never practicing because the microphones in the practice room didn't work, and 
+- arguably not having a lick of talent between them!
+
+With this historic track record, Aidan decided to quit the band when he learned they wanted to do a cover of a "god-awful emo song from some band named Weezer" 🤣. Can you really quit a band that never once practiced together ... 🤔
 
 ### Job hunting ... again!
 
@@ -83,14 +89,24 @@ So, putting those books aside and selecting others as favourites of 2025:
   
   And there were plenty of other examples of scientists being thoroughly insenstive to people throughout the book!  For the drama alone, it's a good book!!
 
+### October baseball
+
+For the month of October, we all became Toronto Blue Jays fans, who advanced to the post-season for the first time since 2022, and kept us all yelling at the TV with multiple comebacks to proceed all the way to game 7 of the World Series against the LA Dodgers.  The baseball in October was exciting, even thrilling at times ... November baseball (game 7 was on Nov 1), not so much 😞  We don't talk about November baseball...
+
 
 ### Holiday experiences
 
-Following last year's trip to see the movie *Elf* at Roy Thomson Hall, with the Toronto Symphony Orchestra playing the soundtrack live, we returned to see *Home Alone* in early December, albeit only with Éamon (*Home Alone* IS his favourite Christmas movie!).  And like last year, it was very enjoyable.  The second half of the performance included a choir (there's a choir scene in a church in the movie) and that was really amazing.
+Following last year's trip to see the movie *Elf* at Roy Thomson Hall, with the Toronto Symphony Orchestra playing the soundtrack live, we returned to see *Home Alone* in early December, albeit only with Éamon (*Home Alone* IS his favourite Christmas movie!).  And like last year, it was very enjoyable.  The second half of the performance included a choir (there's a choir scene in a church in the movie) and that was really amazing. (You can see the choir behind the screen in the second photo.)
+
+<img src="./attachments/Home_Alone_2025_1.jpg" alt="Home Alone" width="600"/>
+<img src="./attachments/Home_Alone_2025_2.jpg" alt="Home Alone, choir in the background" width="600"/>
 
 The following night, we all went to see magician/comedian Justin Willman's *One for the Ages* tour.  That was a lot of fun!
 
+<img src="./attachments/Justin_Willman_2025.jpg" alt="Justin Willman stage setup" width="600"/>
+
 Earlier, in September (so not really a "Christmas holiday" experience!), we also went to see Gabriel "Fluffy" Iglesias - that was a very funny night!  If you haven't seen his comedy specials on Netflix, you should check them out!!
+
 
 ### Onwards
 
