@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Protected Access</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f6f8fa;
+        }
+        .login-box {
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            text-align: center;
+            max-width: 320px;
+            width: 100%;
+        }
+        input[type="password"] {
+            width: 100%;
+            padding: 10px;
+            margin: 15px 0;
+            box-sizing: border-box;
+            border: 1px solid #d0d7de;
+            border-radius: 6px;
+            font-size: 16px;
+        }
+        button {
+            width: 100%;
+            padding: 10px;
+            background-color: #2da44e;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            font-size: 16px;
+            cursor: pointer;
+            font-weight: 600;
+        }
+        button:hover { background-color: #2c974b; }
+        .error { color: #cf222e; font-size: 14px; margin-top: 10px; display: none; }
+    </style>
+</head>
+<body>
+
+<div class="login-box">
+    <h2>Enter Password</h2>
+    <form id="passwordForm" onsubmit="checkPassword(event)">
+        <input type="password" id="passwordInput" placeholder="Password" required autofocus>
+        <button type="submit">Submit</button>
+    </form>
+    <p class="error" id="errorMessage">Incorrect password. Please try again.</p>
+</div>
+
+<script>
+    // Modern browser native SHA-1 hashing function
+    async function sha1(str) {
+        const buffer = new TextEncoder().encode(str);
+        const hashBuffer = await crypto.subtle.digest('SHA-1', buffer);
+        const hashArray = Array.from(new Uint8Array(hashBuffer));
+        return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+    }
+
+    async function checkPassword(event) {
+        event.preventDefault();
+        const password = document.getElementById('passwordInput').value;
+        const errorMsg = document.getElementById('errorMessage');
+        
+        // Hide error message on new attempt
+        errorMsg.style.display = 'none';
+
+        // 1. Hash the user's input password
+        const hashedPassword = await sha1(password);
+
+        // 2. Attempt to navigate directly to that folder path
+        // Jekyll will serve the index.md inside it automatically as HTML
+        const targetUrl = `./${hashedPassword}/`;
+
+        // 3. Verify if the page exists before redirecting
+        try {
+            const response = await fetch(targetUrl, { method: 'HEAD' });
+            if (response.ok) {
+                window.location.href = targetUrl;
+            } else {
+                errorMsg.style.display = 'block';
+            }
+        } catch (error) {
+            // Fallback redirect if HEAD requests are blocked or fail
+            window.location.href = targetUrl;
+        }
+    }
+</script>
+
+</body>
+</html>
