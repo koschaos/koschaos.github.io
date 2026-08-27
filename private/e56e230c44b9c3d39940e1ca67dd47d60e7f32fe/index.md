@@ -1,10 +1,10 @@
-<small>August 10, 2026</small>
+<small>August 24, 2026</small>
 
 # From Schull to Toronto!
 
 (Well, not quite Toronto ... but we'll get to that!)
 
-To whomever is reading this, I hope you are doing well.  I'm grateful for "Captain" O'Callaghan to include me in the group, even if it's sent me down a trail of nostalgia!!
+To whomever is reading this, I hope you are doing well.  I'm grateful for being included in the WhatsApp group, even if it's sent me down a trail of nostalgia!!
 
 ### After Schull CC ...
 
@@ -12,27 +12,27 @@ To whomever is reading this, I hope you are doing well.  I'm grateful for "Capta
 
 One of the projects I worked on there was introducing text messaging to the Japanese market, and I got to spend about 11 days in Tokyo as part of that project in 1997 ... 👈🏻 this becomes important later!
 
-Around mid-1998, I moved back to Limerick to join a Finnish company called Tecnomen based in Shannon; they had offered me a job after UL also but I'd chosen Aldiscon instead ("better the devil you know, etc., etc.").  I spent about 18 months at Tecnomen before some folks there left to form their own company and I was nudged to reach out!
+Around mid-1998, I moved back to Limerick to join a Finnish company called Tecnomen based in Shannon; they had also offered me a job after UL but I'd chosen Aldiscon instead ... "better the devil you know", etc., etc.  In the summer of 1999, some folks there left to form their own company and I was nudged to reach out!
 
-I joined Tango Telecom in 1999 as one of their first employees.  I really loved the start-up environment, got to do lots, learn lots, and hardly took any days off.  So, four years later, when a visa opportunity came up, I decided to take a one year sabbatical to ...
+I joined Tango Telecom in October 1999 as one of their first employees.  I really loved the start-up environment, got to do lots, learn lots, and hardly took any days off (nor cared about it!).  So, four years later, when a visa opportunity came up, I decided to take a one year sabbatical to ...
 
 ### ... spend 12 months in Canada!
 
-How the heck did that come about?  A dare!!  I was sharing a house not far from UL with three others, one of whom was studying for her PhD in Mathematics at the university.  She came home one evening with a flyer from the Student Union advertising a 12 month Work and Travel Visa for Non-Students to Canada.  One of my other housemates and his best friend were at the kitchen table and the conversation went something like:
+How the heck did that come about?  A dare!!  I was sharing a house not far from UL with three others, one of whom was studying for her PhD in Mathematics at the university.  She came home one evening with a flyer from the Student Union advertising a 12-month Work and Travel Visa for Non-Students to Canada.  One of my other housemates and his best friend were at the kitchen table and the conversation went something like:
 
-> Oh, we should do that!
+> Shane H: Oh, we should do that!
 > 
-> Oh for sure, we'll do that!  Kevin, would you go to Canada for 12 months?
+> Paraic: Oh for sure, we'll do that!  Kevin, would you go to Canada for 12 months?
 > 
-> Yeah, sure.
+> Kevin: Yeah, sure.
 > 
-> No, you won't!
+> Both: No, you won't!
 > 
-> I will so!
+> Kevin: I will so!
 > 
-> OK, let's do it then!!
+> Paraic: OK, let's do it then!!
 
-Proceed to do nothing about it, then one month later, repeat that conversation ☝🏻   Wait another month and the conversation turns into a more serious:
+Proceed to energetically do absolutely nothing about it, then repeat that conversation ☝🏻 one month later!  Wait another month and the conversation turns into a more serious:
 
 > Well, are we going to do it?
 > 
@@ -40,13 +40,13 @@ Proceed to do nothing about it, then one month later, repeat that conversation �
 >
 > Alright then!
 
-We finally make it to the Student Union, supposedly getting 3 of the remaining 12 visas allocated to Ireland (there were 100 originally), and we packed our bags for Canada, set to arrive in October (2003).  Of the group potentially reading this, Kevin O'Callaghan was one of the last people I met before heading over ... his words of encouragement?
+We finally make it to the Student Union in August, supposedly getting 3 of the remaining 12 visas allocated to Ireland (there were 100 originally), and we packed our bags for Canada, set to arrive in October (2003).  Of the group potentially reading this, Kevin O'Callaghan was one of the last people I met before heading over.  What were his words of encouragement?
 
 > Why the f$^& are you going in October?  It'll be f$^&ing freezing there!
 
 Add to this the facts that:
-- Canada had been one of the main locations outside of China of the [SARS virus outbreak](https://en.wikipedia.org/wiki/2002%E2%80%932004_SARS_outbreak) in 2003
-- in August of 2003, most of Ontario was [without electricity](https://en.wikipedia.org/wiki/Northeast_blackout_of_2003) for multiple days
+- Canada was one of the main locations outside of China of the [SARS virus outbreak](https://en.wikipedia.org/wiki/2002%E2%80%932004_SARS_outbreak) in 2003
+- in August of 2003, most of Ontario was [without electricity](https://en.wikipedia.org/wiki/Northeast_blackout_of_2003) for multiple days (what third world country is this?!)
 
 ... and it's no wonder one would begin to question one's life choices 😬
 
@@ -54,71 +54,57 @@ Add to this the facts that:
 
 We first started out driving forklifts in a warehouse, on the night shift, from around November to January ... Kevin O'C wasn't wrong ... it was f$^&ing cold!  I remember putting on multiple layers to get through the nights!
 
-In January, one of the guys, who was trying to maintain a long-distance relationship with his girlfriend, decided "enough-is-enough", packed his bags and headed home!  (He may or may not have received an ultimatum!!).
+In January, Shane H. (who was trying to maintain a long-distance relationship), decided "enough-is-enough", packed his bags and headed home!  (He may or may not have received an ultimatum!!)
 
-My other traveller and I decided to also quit the warehouse at the same time.  He had become good friends with one of the others in the warehouse and they decided to head to Western Canada, to work at a ski resort.  I stuck around in Canada, working in a couple of different call centres.  In March, that travelling companion returned to Ireland ... having been told by his mammy to come home!  Granted, she was making the point that, if he was serious about starting out in real estate, he should come home before the summer.  Still ... his mammy told him to come home!!
+Paraic and I decided to quit the warehouse at the same time too.  He had become good friends with one of the others in the warehouse and they decided to head to Western Canada, to work at a ski resort.  I stuck around in Toronto, working in a couple of call centres.  In March, Paraic returned to Ireland ... having been told by his mammy to come home!  Granted, she was making the point that, if he was serious about starting out in real estate, he should come home before the summer.  Still ... his mammy told him to come home!!
 
-Remember when I said above ☝🏻 that the bit about Japan would become important?  Two of the guys who worked for Aldiscon that I had met in Tokyo - one from Bray, one from Limerick - had since moved to Canada since I'd last seen them!  At the time I went to Canada, my sister was working in Dublin at the time, and the guy sitting at the desk next to her was a Japanese native who fell in love with all things Ireland, and moved to Dublin from Tokyo ... where he had worked in the Aldiscon Japan office!
+Remember when I said above ☝🏻 that the bit about Japan would become important?  Two of the guys who worked for Aldiscon that I had met in Tokyo - Stephen from Bray, Shane L. from Limerick - had moved to Canada since I'd last seen them!  At the time I went to Canada, my sister was working in Dublin, and the guy sitting at the desk next to her was a Japanese chap who fell in love with all things Ireland, and moved from the Aldiscon Japan office in Tokyo to live and work in Dublin.
 
-She mentioned to him that I had just gone out to Canada, he mentioned to her about the two lads he had worked with now being in Canada, messages were exchanged to all parties, and I ended up at a dinner in downtown Toronto with these guys and their wives!  Both were working at TELUS Mobility, a Canadian mobile phone provider (think Vodafone, Verizon, or 3) and one of them mentions that his boss was looking to hire someone with a software background but wasn't liking any of the candidates in his team and suggested I connect with him.  Which I did ... and he offered me a job ... and offered to sort out extending my work permit situation since my visa only allowed me to be there until October 2004.
+She mentioned to him that I had just gone out to Canada, he mentioned to her about Stephen and Shane L. now being in Canada, messages were exchanged to all parties, and I ended up at a dinner in downtown Toronto with these guys and their wives!  Both were working at TELUS Mobility, a Canadian mobile phone provider (think Vodafone, Verizon, or 3, etc.) and Stephen mentions that his boss (Alfred) was looking for someone with a software background but wasn't liking any of the candidates in his team. He suggested I connect with him, which I did ... and Alfred offered me a job ... and offered to sort out extending my work permit situation since my visa only allowed me to be there until October 2004.
 
-So, having gone to Canada to spend 12 months not doing the kind of software work I had been doing, I ended up with a longer term opportunity ... and figured I'd do that for 2-3 years before heading back home!
+So, having gone to Canada to spend 12 months not doing the kind of "professional" work I had been doing, I ended up with a longer term opportunity, to lead and build a team ... and figured I'd do that for 2-3 years before heading back home!
 
 ### TELUS
 
-So, I started at TELUS in May 2004 ... and was laid off in November 2018.  My farewell email went as follows:
+So, I started at TELUS in May 2004 and my time there represents a long list of those key personal life moments:
 
-> Hi folks,
-> 
-> As some of you may already know, I'm leaving TELUS after fourteen and a half years.  It's been quite the journey and a very rich one at that.  I've had the great fortune of working with an amazing group of people, from whom I've learned more than I could have imagined when I joined in 2004.
-> 
-> I joined TELUS for the opportunity to build and lead a team of people in a formal way.  That has been the singular greatest privilege of my role and I can only hope that I've made a positive impact on those folks' lives and careers along the way.
-> 
-> Life is full of key personal moments, including meeting and marrying your significant other (OK, better half!), buying your first house to make a home, the birth of children, the death of parents.  For me, all those key personal moments occurred while working at TELUS, so it's hard to dismiss that "end-of-an-era" feeling.
-> 
-> So, rather than dwell on that, I'm looking forward to the next leg of the journey, wherever it takes me.
-> 
-> Thank you for all your support, for the friendships and teaching moments you gave me, and a very special thank you to Alfred B., who made the decision to hire me back in 2004, supported my TELUS journey throughout and has become a great friend in the process.
-> 
-> Wishing you all well on your own journeys.
-
-
-There's a bit in the middle of that message that highlights the significance of my time at TELUS:
 - I met Susan, who also worked at TELUS, at the end of 2004
 - ... got engaged towards the end of 2005
-- ... bought a house in April 2006
+- ... bought a house in Whitby (east of Toronto) in April 2006
 - ... got married (in Ireland!) in September 2006
-- Susan was "downsized" from TELUS in early 2007, shortly before we found out she was pregnant
+- Susan was "downsized" from TELUS in early 2007
 - Éamon was born in March 2008
 - My mum was diagnosed with cancer in May or June 2008
 - My dad was diagnosed with cancer towards the end of 2009
 - Aidan was born January 2010
 - Éamon was diagnosed with moderate-to-severe Autism in November 2010
-- My mum passed away a month later
+- My mum passed away a month later on St. Stephen's Day/Boxing Day
 - Dad passed away Easter Sunday in April 2012
-- I was laid off from TELUS in November 2018, as part of the sixth or seventh round of layoffs during my time there.
+- On July 4, 2018, I thought I was having a heart attack.  Fortunately I wasn't (spent most of a day in hospital before they finally concluded that!) but after some more testing the following day, I was diagnosed with paroxysmal atrial fibrillation (A.Fib.)
+- At the end of September, I was told I was being laid off, as part of the sixth or seventh round of layoffs during my time at TELUS.
+- Knowing ☝🏻 didn't stop us from adopting two cats (Newt, Sheba) in October!
+- I finally finished up in early November.
 
-Basically, lots of "life" moments happened, both good and bad, during my time at TELUS.
+Lots of "life" moments happened, both good and bad, during my time at TELUS.
 
-For 2019, I applied for jobs, applied for more jobs, watched all of "Game of Thrones", took a trip to Ireland (hadn't been since 2012), and finally returned to writing software (basially rebooting my programmer career!) at ...
+For 2019, I applied for jobs, applied for more jobs, watched all of "Game of Thrones", we took a trip to Ireland (hadn't been since 2012), got a dog (Cócó) and finally returned to writing software (basically rebooting my programmer career!) at ...
 
 ### Shopify!
 
-(**Shop** ify, not _Spot_ ify!)
+(**Shopify**, not _Spotify_!)
 
-In May or June of 2019, three people forwarded me a link to a new program Shopify was starting, lookiing for software developers who had been not doing hands on development for a couple of years but wanted to get back into the field.  I was fortunate to be one of the initial cohort of 30 and the part-time program ran from mid-October for about 10 weeks.
+Around early June of 2019, three different people forwarded me a link to a new program Shopify was starting, looking for software developers who had not been doing hands-on development for a couple of years but wanted to get back into it.  I was fortunate to be one of the initial cohort of 30 and the part-time program ran from mid-October for about 10 weeks.
 
 In the end, most of the participants were hired to start full-time in 2020.  I started at the beginning of February and six weeks later we were all told to work from home because of COVID (I've been working from home since then).
 
-Shopify hired like crazy during the pandemic - there were about 7,000-ish when I joined and about 18 months later it was approx. 14,000.  Online commerce grew accelerated hugely during the pandemic, and the company bet that the increased growth rate would continue once the pandemic subsided.
+What else went on?
+- Like so many people, we had to navigate schooling at home, while also working, for almost a year.
+- In early 2022, Aidan got diagnosed as being on the spectrum too, albeit much milder (i.e., Aspergers, if that were still an official diagnosis)
+- In October 2023, I underwent an ablation procedure on my heart to help with the A.Fib. stuff
 
-It didn't.
+Workwise, Shopify doubled in size over 18 months during the pandemic, making a big bet that the increased rate of growth in online commerce would continue (spoiler alert - it didn't!).  There was a 10% round of layoffs in late 2022, a 20% round in May 2023.
 
-In late 2022, there were about 10% laid off and in May 2023, there was a big 20% layoff.  The second one really sucked because, in April, the team that I was a part of met face-to-face for the first time.  There were about 60 of us and most of the team had never met in real life because so many were hired remotely.  So, we finally got to meet the people behind the little Zoom windows, only for many of them to be laid off a couple of weeks later, including my new manager who had moved from the UK with his wife and baby just six months prior.  Then, several of us (including myself) were reassigned to different teams.
-
-Needless to say, the mood at Shopify changed quite a bit after that 😢
-
-By 2024, Shopify was "all-in" on AI, and we began hearing of quieter layoffs, teams being trimmed of a few members here and there.  Towards the end of that year, my manager's team was split into two, and some team members (including myself) were assigned to a new manager.  In March, my former manager (who was leading the other half of the team after the split) was let go, then another team member in April, then myself in May.
+By 2024, Shopify was "all-in" on AI, and we began hearing of quieter layoffs, teams being trimmed of a few members here and there.  Towards the end of that year, my manager's team was split into two, and some team members (including myself) were assigned to a new manager.  In March, my former manager was let go, then another team member in April, then myself in May.
 
 And that sucked 🙁
 
@@ -126,4 +112,86 @@ In June, I reached out to my network asking folks to let me know if they saw any
 
 ### TELUS! (part 2)
 
+So, I've been back at TELUS again, which is nice but it's also quite different, as everybody is remote and I'm pretty much doing my own thing with hardly any interaction with anyone at all.  It's all a bit strange, and lonely!  My contract had been until the end of 2025, and then it got extended until 2026.  After that, I'll need to figure it out 🤔
 
+### Life ...
+
+The weekdays are filled with track & field training for Aidan, and piano lessons for Éamon, walking the dog and sitting in the basement at a desk.
+
+Every so often on the weekends, there will be a track meet for Aidan or a visit to a train station for Éamon to record videos of freight trains, commuter trains, etc.  Éamon is obsessed with trains and going "railfanning" (it's a thing!) ... in his own words, he's a "train enthusiast"!!  About once a month we'll have Susan's family over for Sunday dinner.
+
+### ... and death
+
+> "We have two lives, and the second begins when we realize we only have one."
+> - Confucius
+
+Along the way, I stopped going to church, then stopped believing in God/heaven/hell/etc.  I believe that this is it - we were born, we live, then we die, and then there's nothing.
+
+So, how to make the most of it?  Stoicism (the philosophy) has come the closest to being my template for living the good life - failing every day, and then trying the next.  That's basically all it is - try your best today, forgive yourself for messing up, try again tomorrow.
+
+For far too long I tied my identity to what I did, professionally, and doing it well.  It took me way too long to realize that life is about relationships - family, friends.  What's the point of living if you can't share it with others?  Doing relationships well is far more important.
+
+I worry about my boys, what they're going to do, hoping I'm raising good humans and that I haven't messed them up (... or at least not too much!)
+
+Benjamin Franklin used the famous phrase in 1789 that "in this world nothing is certain except death and taxes".  Taxes can be avoided!  Death, however ...
+
+We're all making that journey.  Wouldn't it be better to make that journey together?
+
+The spiritual teacher Ram Dass has a lovely quote: "We're all just walking each other home".
+
+On that sober note, I'd really love to hear about what's going on in your life, what has happened on your journey since Schull C.C.  You can send me an email at koschaos@gmail.com, or send me a direct message on WhatsApp/Messages/Signal/etc.  I hope you reach out.
+
+### Lessons learned ...
+
+... or being learned ... or learned and forgotten again ...
+
+#### 1. Adulting sucks!
+
+> "So no one told you life was gonna be this way"
+
+So no one told me that the first line of the "Friends" theme song would be so true!  Being an adult is hard; all the choices and decisions and worries and mistakes and regrets ... it's just exhausting!  How can we make it any worse?
+
+#### 2. Parenting really sucks!
+
+Oh yeah, add parenting to it! Just when you think you _might_ have the whole adulting thing figured out, throw some kids into the mix and you can forget about figuring out anything, ever again!!  Still, there are some moments of joy ... right? 😬
+
+The one that hit me the most is how your focus completely shifts ... from yourself, to yourself+partner, to your kids.  I've learned new stuff from "Curious George" and "Peppa Pig"!  Though I've no interest in gaming, I've learned about different styles of video games (side-scroller, platformer, fps, rpg, mmorpg, strategy, simulation, etc.) and listened to various electronic dance tunes from Geometry Dash (which is a rhythm-based side-scroller platformer) ... all because of Aidan.  I've learned that "railfanning" is a thing where "rail enthusiasts" record videos of trains and post them on YouTube (Éamon) and that they use radio scanners to listen to railroad traffic, and that "squelch" is not a made up word! (It's a radio thing!!) 😵‍💫
+
+All sorts of stuff that I would have zero interest in ... except it's stuff the boys are interested in and excited about, so you figure it out!  They're not into computer programming (I've tried!) or reading history or philosophy (granted, me at their age would cringe at me at my age, so ...!)
+
+And the worry!  You worry about keeping them alive when they're young.  Now I worry about strangling them as teenagers!  You worry about the future, their future, their needs, what will happen after I'm gone, etc., etc., etc.
+
+#### 3. Sh*t happens, but you can figure it out
+
+Yeah, life throws curveballs (sorry, baseball reference! ⚾), be it the death of loved ones sooner than you expected or even thought about, kids with special needs, unexpected job loss.  At the time they happen, they can feel crushing ... but life goes on ... stuff needs to get done, so you find a way to figure out how to answer the question "so, what now?"
+
+That's kinda it ... one foot in front of the other, solving one problem after another.  Lamenting why something did or didn't happen doesn't help, even when your soul wants to scream it out loud.
+
+You just keep walking.
+
+#### 4. It's all about relationships
+
+Life is about relationships.  It's not about work, or money, or stuff, or status ... that's all bullshit.  It's about good relationships with people, with family, with friends.  As a kid who was mortifyingly shy and introverted, this lesson has ... and still is ... the hardest for me to navigate.
+
+It's been too easy for me to turn inward and close off the world to focus on just my home.  It's why I'm grateful to have been added to the WhatsApp group.  It's why I'm happy to go to track meets and be part of the parent group.  It's why I've got reminders to reach out to people, to check in on how they're doing, how they're really doing, not the curated Instabook/Facegram feed.  So, I've to be intentional about it, but it's usually worth the effort.
+
+#### 5. "We're all just walking each other home."
+
+I heard that ☝🏻 quote on a podcast, attributed to the spiritual teacher Ram Dass, and it resonated a lot.  It ties to the point above about relationships.  However different our paths in life, all of us, every single one of us, are all walking to the same destination, an endpoint that no one likes to talk about, but it's inevitable for all of us.  We are all likely encountering similar obstacles along the way, differing perhaps in the timing or location or intensity.
+
+If we're all heading the same way, if we're all encountering the same types of challenges (and joys, and emotions, etc.), wouldn't it be nicer to walk there together, with some friends to help and be helped along the way?
+
+### Wrapping up
+
+If you've made it this far, thank you! If you're up for it, it woudl be nice to learn how things are going for you on your journey, even if it's just a few words.  You can email me at `koschaos@gmail.com` or send me a direct message (text, WhatsApp, Signal) using my phone number `+16476842778`.
+
+I'd love to hear from you.</br>
+Kevin.
+
+<small>
+P.S. After 14½ years at TELUS (part 1), I left with a bunch of friendships that were important to me.  During the pandemic in 2020 and in 2021, I hosted several Zoom calls with different groups of friends, as a way to connect and chit-chat while we were all cooped up at home.
+</br></br>
+In early 2022, I sent an email to the entire group, partly as a way to give an update but also to foster responses that we could connect on.  By 2023, I didn't feel the need to send an email but several friends reached out and said, "hey, where's the update?!"  So, in early 2024, I sent another recap email, and from 2025 onwards, it became a very short email with a link to a web page, easier to include pictures, etc.  It helps me to connect with people, share what I've been reading, etc. and folks get back to me with an update on their side.
+</br></br>
+You can find them [here](../../pages), if you're interested.
+</small>
