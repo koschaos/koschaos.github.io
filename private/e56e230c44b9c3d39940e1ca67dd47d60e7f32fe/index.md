@@ -155,7 +155,11 @@ So no one told me that the first line of the "Friends" theme song would be so tr
 
 Oh yeah, add parenting to it! Just when you think you _might_ have the whole adulting thing figured out, throw some kids into the mix and you can forget about figuring out anything, ever again!!  Still, there are some moments of joy ... right? 😬
 
-The one that hit me the most is how your focus completely shifts ... from yourself, to yourself+partner, to your kids.  I've learned new stuff from "Curious George" and "Peppa Pig"!  Though I've no interest in gaming, I've learned about different styles of video games (side-scroller, platformer, fps, rpg, mmorpg, strategy, simulation, etc.) and listened to various electronic dance tunes from Geometry Dash (which is a rhythm-based side-scroller platformer) ... all because of Aidan.  I've learned that "railfanning" is a thing where "rail enthusiasts" record videos of trains and post them on YouTube (Éamon) and that they use radio scanners to listen to railroad traffic, and that "squelch" is not a made up word! (It's a radio thing!!) 😵‍💫
+The one that hit me the most is how your focus completely shifts ... from yourself, to yourself+partner, to your kids.  I've learned new stuff from "Curious George" and "Peppa Pig"!
+
+Though I've no interest in gaming, I've learned about different styles of video games (side-scroller, platformer, fps, rpg, mmorpg, strategy, simulation, etc.) and listened to various electronic dance tunes from Geometry Dash (which is a rhythm-based side-scroller platformer) ... all because of Aidan.
+
+I've learned that "railfanning" is a thing where "rail enthusiasts" record videos of trains and post them on YouTube (Éamon) and that they use radio scanners to listen to railroad traffic, and that "squelch" is _not_ a made up word! (It's a radio thing!!) 😵‍💫
 
 All sorts of stuff that I would have zero interest in ... except it's stuff the boys are interested in and excited about, so you figure it out!  They're not into computer programming (I've tried!) or reading history or philosophy (granted, me at their age would cringe at me at my age, so ...!)
 
@@ -163,7 +167,7 @@ And the worry!  You worry about keeping them alive when they're young.  Now I wo
 
 #### 3. Sh*t happens, but you can figure it out
 
-Yeah, life throws curveballs (sorry, baseball reference! ⚾), be it the death of loved ones sooner than you expected or even thought about, kids with special needs, unexpected job loss.  At the time they happen, they can feel crushing ... but life goes on ... stuff needs to get done, so you find a way to figure out how to answer the question "so, what now?"
+Yeah, life throws curveballs (sorry for the baseball reference ⚾), be it the death of loved ones sooner than you expected, kids with special needs, unexpected job loss.  At the time they happen, they can feel crushing ... but life goes on ... stuff needs to get done, so you find a way to figure out how to answer the question "so, what now?"
 
 That's kinda it ... one foot in front of the other, solving one problem after another.  Lamenting why something did or didn't happen doesn't help, even when your soul wants to scream it out loud.
 
@@ -185,13 +189,13 @@ If we're all heading the same way, if we're all encountering the same types of c
 
 If you've made it this far, thank you! If you're up for it, it would be nice to learn how things are going for you on your journey, even if it's just a few words.  You can email me at `koschaos@gmail.com` or send me a direct message (text, WhatsApp, Signal) using my phone number `+16476842778`.
 
-I'd love to hear from you.</br>
+I'd love to hear from you.<br/>
 Kevin.
 
-<p><small>
-P.S. After 14½ years at TELUS (part 1), I left with a bunch of friendships that were important to me.  During the pandemic in 2020 and in 2021, I hosted several Zoom calls with different groups of friends, as a way to connect and chit-chat while we were all cooped up at home.
-</br></br>
-In early 2022, I sent an email to the entire group, partly as a way to give an update but also to foster responses that we could connect on.  By 2023, I didn't feel the need to send an email but several friends reached out and said, "hey, where's the update?!"  So, in early 2024, I sent another recap email, and from 2025 onwards, it became a very short email with a link to a web page, easier to include pictures, etc.  It helps me to connect with people, share what I've been reading, etc. and folks get back to me with an update on their side.
-</br></br>
-You can find them [here](../../pages), if you're interested.
-</small></p>
+---
+
+> P.S. After 14½ years at TELUS (part 1), I left with a bunch of friendships that were important to me.  During the pandemic in 2020 and in 2021, I hosted several Zoom calls with different groups of friends, as a way to connect and chit-chat while we were all cooped up at home.
+>
+> In early 2022, I sent an email to the entire group, partly as a way to give an update but also to foster responses that we could connect on.  By 2023, I didn't feel the need to send an email but several friends reached out and said, "hey, where's the update?!"  So, in early 2024, I sent another recap email, and from 2025 onwards, it became a very short email with a link to a web page, easier to include pictures, etc.  It helps me to connect with people, share what I've been reading, etc. and folks get back to me with an update on their side.
+>
+> You can find them [here](../../pages), if you're interested.
