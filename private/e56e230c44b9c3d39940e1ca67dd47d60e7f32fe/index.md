@@ -56,7 +56,7 @@ We first started out driving forklifts in a warehouse, on the night shift, from 
 
 In January, Shane H. (who was trying to maintain a long-distance relationship), decided "enough-is-enough", packed his bags and headed home!  (He may or may not have received an ultimatum!!)
 
-Paraic and I decided to quit the warehouse at the same time too.  He had become good friends with one of the others in the warehouse and they decided to head to Western Canada, to work at a ski resort.  I stuck around in Toronto, working in a couple of call centres.  In March, Paraic returned to Ireland ... having been told by his mammy to come home!  Granted, she was making the point that, if he was serious about starting out in real estate, he should come home before the summer.  Still ... his mammy told him to come home!!
+Paraic and I quit the warehouse at the same time too.  He had become good friends with one of the others in the warehouse and they decided to head to Western Canada, to work at a ski resort.  I stuck around in Toronto, working in a couple of call centres.  In March, Paraic returned to Ireland ... having been told by his mammy to come home!  Granted, she was making the point that, if he was serious about starting out in real estate, he should come home before the summer.  Still ... his mammy told him to come home!!
 
 Remember when I said above ☝🏻 that the bit about Japan would become important?  Two of the guys who worked for Aldiscon that I had met in Tokyo - Stephen from Bray, Shane L. from Limerick - had moved to Canada since I'd last seen them!  At the time I went to Canada, my sister was working in Dublin, and the guy sitting at the desk next to her was a Japanese chap who fell in love with all things Ireland, and moved from the Aldiscon Japan office in Tokyo to live and work in Dublin.
 
@@ -112,7 +112,7 @@ In June, I reached out to my network asking folks to let me know if they saw any
 
 ### TELUS! (part 2)
 
-So, I've been back at TELUS again, which is nice but it's also quite different, as everybody is remote and I'm pretty much doing my own thing with hardly any interaction with anyone at all.  It's all a bit strange, and lonely!  My contract had been until the end of 2025, and then it got extended until 2026.  After that, I'll need to figure it out 🤔
+So, I've been back at TELUS again, which is nice but it's also quite different, as everybody is remote and I'm pretty much doing my own thing with hardly any interaction with anyone at all.  It's all a bit strange, and lonely!  My contract had been until the end of 2025, and then it got extended until the end of 2026.  After that, I'll need to figure it out 🤔
 
 ### Life ...
 
@@ -171,7 +171,7 @@ You just keep walking.
 
 #### 4. It's all about relationships
 
-Life is about relationships.  It's not about work, or money, or stuff, or status ... that's all bullshit.  It's about good relationships with people, with family, with friends.  As a kid who was mortifyingly shy and introverted, this lesson has ... and still is ... the hardest for me to navigate.
+Life is about relationships.  It's not about work, or money, or stuff, or status ... that's all bullshit.  It's about good relationships with people, with family, with friends.  As a kid who was mortifyingly shy and introverted, this lesson has been ... and still is ... the hardest for me to navigate.
 
 It's been too easy for me to turn inward and close off the world to focus on just my home.  It's why I'm grateful to have been added to the WhatsApp group.  It's why I'm happy to go to track meets and be part of the parent group.  It's why I've got reminders to reach out to people, to check in on how they're doing, how they're really doing, not the curated Instabook/Facegram feed.  So, I've to be intentional about it, but it's usually worth the effort.
 
@@ -183,15 +183,15 @@ If we're all heading the same way, if we're all encountering the same types of c
 
 ### Wrapping up
 
-If you've made it this far, thank you! If you're up for it, it woudl be nice to learn how things are going for you on your journey, even if it's just a few words.  You can email me at `koschaos@gmail.com` or send me a direct message (text, WhatsApp, Signal) using my phone number `+16476842778`.
+If you've made it this far, thank you! If you're up for it, it would be nice to learn how things are going for you on your journey, even if it's just a few words.  You can email me at `koschaos@gmail.com` or send me a direct message (text, WhatsApp, Signal) using my phone number `+16476842778`.
 
 I'd love to hear from you.</br>
 Kevin.
 
-<small>
+<p><small>
 P.S. After 14½ years at TELUS (part 1), I left with a bunch of friendships that were important to me.  During the pandemic in 2020 and in 2021, I hosted several Zoom calls with different groups of friends, as a way to connect and chit-chat while we were all cooped up at home.
 </br></br>
 In early 2022, I sent an email to the entire group, partly as a way to give an update but also to foster responses that we could connect on.  By 2023, I didn't feel the need to send an email but several friends reached out and said, "hey, where's the update?!"  So, in early 2024, I sent another recap email, and from 2025 onwards, it became a very short email with a link to a web page, easier to include pictures, etc.  It helps me to connect with people, share what I've been reading, etc. and folks get back to me with an update on their side.
 </br></br>
 You can find them [here](../../pages), if you're interested.
-</small>
+</small></p>
