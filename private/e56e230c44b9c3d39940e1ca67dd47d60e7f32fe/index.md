@@ -105,7 +105,7 @@ In the end, most of the participants were hired to start full-time in 2020.  I s
 
 What else went on?
 - Like so many people, we had to navigate schooling at home, while also working, for almost a year.
-- In early 2022, Aidan was diagnosed as being on the spectrum too, albeit much milder (i.e., probably Aspergers, though it's no longer an official diagnosis)
+- In early 2022, Aidan was diagnosed as being on the autism spectrum, albeit much milder (i.e., probably Asperger's syndrome, though it's no longer considered a separate medical condition)
 - In October 2023, I underwent an ablation procedure on my heart to help with the A.Fib. stuff
 
 Workwise, Shopify doubled in size over 18 months during the pandemic, making a big bet that the increased rate of growth in online commerce would continue (spoiler alert - it didn't!).  There was a 10% round of layoffs in late 2022 and another 20% round in May 2023.
@@ -118,7 +118,9 @@ In June, I reached out to my network asking folks to let me know if they saw any
 
 ### TELUS! (part 2)
 
-So, I've been back at TELUS again, which is nice but it's also quite different, as everybody is remote and I'm pretty much doing my own thing with hardly any interaction with anyone at all.  It's all a bit strange, and lonely!  My contract had been until the end of 2025, and then it got extended until the end of 2026.  After that, I'll need to figure it out 🤔 ... and that scares me ... I'm on the wrong side of 50 in an industry that's mercilessly ageist.
+So, I've been back at TELUS again, which is nice but it's also quite different, as everybody is remote and I'm pretty much doing my own thing with hardly any interaction with anyone at all.  It's all a bit strange, and lonely!  My contract had been until the end of 2025, and then it got extended until the end of 2026.
+
+After that, I'll need to figure it out 🤔 ... and that scares me ... I'm on the wrong side of 50 in an industry that's mercilessly ageist.
 
 ### Lessons learned ...
 
@@ -134,13 +136,13 @@ So no one told me that the first line of the "Friends" theme song would be so tr
 
 Oh yeah, add parenting to it! Just when you think you _might_ have the whole adulting thing figured out, throw some kids into the mix and you can forget about figuring out anything, ever again!!  Still, there are some moments of joy ... right? 😬
 
-The one that hit me the most is how your focus completely shifts ... from yourself, to yourself+partner, to your kids.  And the stuff you end up learning ...
+The lesson that hit me the most is how your focus completely shifts ... from yourself, to yourself+partner, to your kids.  And the stuff you end up learning ...
 
 I've learned new stuff from "Curious George" and "Peppa Pig"!  I've learned about different styles of video games (side-scroller, platformer, FPS, RPG, MMORPG, strategy, simulation, etc.) and listened to various (awful!) electronic dance tunes from Geometry Dash (which is a rhythm-based side-scroller platformer) ... all because of Aidan.
 
 I've learned that "railfanning" is a thing where "rail enthusiasts" record videos of trains and post them on YouTube (Éamon) and that they use radio scanners to listen to railroad traffic, and that "squelch" is _not_ a made up word! (It's a radio thing!!) 😵‍💫
 
-All sorts of stuff that I would have zero interest in ... except it's stuff the boys are interested in and excited about, so you go figure it out!  They're not into computer programming (I've tried!) or reading/listening to books on self-improvement or history or philosophy.  Granted, me at their age would cringe at me at my age, so ... 🤷
+All sorts of stuff that I would have zero interest in ... except it's stuff the boys are interested in and excited about, so you go figure it out!  They're not into computer programming (I've tried!) or reading/listening to books on self-improvement or history or philosophy.  Granted, me at their age would probably cringe at me at my age, so ... 🤷
 
 And the worry!  You worry about keeping them alive when they're young.  Now I worry about strangling them as teenagers!  You worry about the future, their future, their needs, what will happen after I'm gone, etc.  I'm hoping I'm raising good adults and that I haven't messed them up (... or at least not too much ... I'm not sure I can afford the therapy!)
 
@@ -156,7 +158,7 @@ You just keep walking.
 
 Life is about relationships.  It's not about work, or money, or stuff, or status ... that's all bullshit.  It's about good relationships, with family, with friends.  As a kid who was mortifyingly shy and introverted, this lesson has been ... and still is ... the hardest for me to navigate.
 
-It's been too easy for me to turn inward and close off the world to focus on just my home.  It's why I'm grateful to have been added to the WhatsApp group.  It's why I'm happy to go to Aidan's track meets and be part of the parent group.  It's why I've got reminders to reach out to people, to check in on how they're doing, how they're really doing, not the curated Instabook/Facegram feed (that I avoid like the plague that it is).
+It's been too easy for me to turn inward and close off the world to focus on just my home.  It's why I'm grateful to have been added to the WhatsApp group.  It's why I'm happy to go to Aidan's track meets and be part of the parent group.  It's why I've got reminders to reach out to people, to check in on how they're really doing, not the curated Instabook/Facegram feed (that I avoid like the plague that it is).
 
 I've to be intentional about it, and it's worth the effort.
 
