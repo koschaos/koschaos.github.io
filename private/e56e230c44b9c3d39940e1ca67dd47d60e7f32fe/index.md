@@ -1,16 +1,16 @@
-<small>August 24, 2026</small>
+<small>September 1, 2026</small>
 
 # From Schull to Toronto!
 
 (Well, not quite Toronto ... but we'll get to that!)
 
-To whomever is reading this, I hope you are doing well.  I'm grateful for being included in the WhatsApp group, even if it's sent me down a trail of nostalgia!!
+To whomever is reading this, I hope you are doing well.  I'm grateful for being added to the WhatsApp group, even if it's sent me down a trail of nostalgia, and raising the ghosts of my teenage anxieties and insecurities all over again! 🤦‍♂️
 
 ### After Schull CC ...
 
-... I ended up at the University of Limerick, studying Computer Engineering.  For the summer between 3rd and 4th year, I worked at a telecoms software company called Aldiscon and, after finishing at UL, I joined Aldiscon full time.
+... I ended up at the University of Limerick, studying Computer Engineering.  For the summer between 3rd and 4th year, I worked in Dublin at a telecoms software company called Aldiscon and, after finishing at UL, I joined Aldiscon full time.
 
-One of the projects I worked on there was introducing text messaging to the Japanese market, and I got to spend about 11 days in Tokyo as part of that project in 1997 ... 👈🏻 this becomes important later!
+While there, one of the projects I worked on was introducing text messaging to the Japanese market, and I got to spend about 11 days in Tokyo as part of that project in 1997 ... 👈🏻 this tidbit becomes important later!
 
 Around mid-1998, I moved back to Limerick to join a Finnish company called Tecnomen based in Shannon; they had also offered me a job after UL but I'd chosen Aldiscon instead ... "better the devil you know", etc., etc.  In the summer of 1999, some folks there left to form their own company and I was nudged to reach out!
 
@@ -18,7 +18,7 @@ I joined Tango Telecom in October 1999 as one of their first employees.  I reall
 
 ### ... spend 12 months in Canada!
 
-How the heck did that come about?  A dare!!  I was sharing a house not far from UL with three others, one of whom was studying for her PhD in Mathematics at the university.  She came home one evening with a flyer from the Student Union advertising a 12-month Work and Travel Visa for Non-Students to Canada.  One of my other housemates and his best friend were at the kitchen table and the conversation went something like:
+How the heck did that come about?  In short, a dare!!  I was sharing a house not far from UL with three others, one of whom was studying for her PhD in Mathematics at the university.  She came home one evening with a flyer from the Student Union advertising a 12-month Work and Travel Visa for Non-Students to Canada.  One of my other housemates and his best friend were at the kitchen table and the conversation went something like:
 
 > Shane H: Oh, we should do that!
 > 
@@ -58,9 +58,9 @@ In January, Shane H. (who was trying to maintain a long-distance relationship), 
 
 Paraic and I quit the warehouse at the same time too.  He had become good friends with one of the others in the warehouse and they decided to head to Western Canada, to work at a ski resort.  I stuck around in Toronto, working in a couple of call centres.  In March, Paraic returned to Ireland ... having been told by his mammy to come home!  Granted, she was making the point that, if he was serious about starting out in real estate, he should come home before the summer.  Still ... his mammy told him to come home!!
 
-Remember when I said above ☝🏻 that the bit about Japan would become important?  Two of the guys who worked for Aldiscon that I had met in Tokyo - Stephen from Bray, Shane L. from Limerick - had moved to Canada since I'd last seen them!  At the time I went to Canada, my sister was working in Dublin, and the guy sitting at the desk next to her was a Japanese chap who fell in love with all things Ireland, and moved from the Aldiscon Japan office in Tokyo to live and work in Dublin.
+Remember when I said above ☝🏻 that the bit about Japan would become important?  Two of the guys who worked for Aldiscon that I had met in Tokyo - Stephen from Bray, Shane L. from Limerick - had moved to Canada since I'd last seen them!  At the time I went to Canada, my sister was working in Dublin, and the guy sitting at the desk next to her was a Japanese chap who, having joined the Aldiscon Japan office in Tokyo, fell in love with all things Ireland, and moved from Tokyo to live and work in Dublin.
 
-She mentioned to him that I had just gone out to Canada, he mentioned to her about Stephen and Shane L. now being in Canada, messages were exchanged to all parties, and I ended up at a dinner in downtown Toronto with these guys and their wives!  Both were working at TELUS Mobility, a Canadian mobile phone provider (think Vodafone, Verizon, or 3, etc.) and Stephen mentions that his boss (Alfred) was looking for someone with a software background but wasn't liking any of the candidates in his team. He suggested I connect with him, which I did ... and Alfred offered me a job ... and offered to sort out extending my work permit situation since my visa only allowed me to be there until October 2004.
+She mentioned to him that I had just gone out to Canada, he mentioned to her about Stephen and Shane L. now being in Canada, emails were exchanged to all parties, and I ended up at a dinner in downtown Toronto with these guys and their wives!  Both were working at TELUS Mobility, a Canadian mobile phone provider (think Vodafone, Verizon, or 3, etc.) and Stephen mentions that his boss (Alfred) was looking for someone with a software background but wasn't liking any of the candidates in his team. He suggested I connect with him, which I did ... and Alfred offered me a job ... and offered to sort out extending my work permit situation since my visa only allowed me to be there until October 2004.
 
 So, having gone to Canada to spend 12 months not doing the kind of "professional" work I had been doing, I ended up with a longer term opportunity, to lead and build a team ... and figured I'd do that for 2-3 years before heading back home!
 
@@ -99,12 +99,12 @@ In the end, most of the participants were hired to start full-time in 2020.  I s
 
 What else went on?
 - Like so many people, we had to navigate schooling at home, while also working, for almost a year.
-- In early 2022, Aidan got diagnosed as being on the spectrum too, albeit much milder (i.e., Aspergers, if that were still an official diagnosis)
+- In early 2022, Aidan got diagnosed as being on the spectrum too, albeit much milder (i.e., probably Aspergers, though it's no longer an official diagnosis)
 - In October 2023, I underwent an ablation procedure on my heart to help with the A.Fib. stuff
 
-Workwise, Shopify doubled in size over 18 months during the pandemic, making a big bet that the increased rate of growth in online commerce would continue (spoiler alert - it didn't!).  There was a 10% round of layoffs in late 2022, a 20% round in May 2023.
+Workwise, Shopify doubled in size over 18 months during the pandemic, making a big bet that the increased rate of growth in online commerce would continue (spoiler alert - it didn't!).  There was a 10% round of layoffs in late 2022 and another 20% round in May 2023.
 
-By 2024, Shopify was "all-in" on AI, and we began hearing of quieter layoffs, teams being trimmed of a few members here and there.  Towards the end of that year, my manager's team was split into two, and some team members (including myself) were assigned to a new manager.  In March, my former manager was let go, then another team member in April, then myself in May.
+By 2024, Shopify was all-in on AI, and we began hearing of quieter layoffs, teams being trimmed of a few members here and there.  Towards the end of that year, my manager's team was split into two, and some team members (including myself) were assigned to a new manager.  In March, my former manager was let go, then another team member in April, then myself in May.
 
 And that sucked 🙁
 
@@ -113,33 +113,6 @@ In June, I reached out to my network asking folks to let me know if they saw any
 ### TELUS! (part 2)
 
 So, I've been back at TELUS again, which is nice but it's also quite different, as everybody is remote and I'm pretty much doing my own thing with hardly any interaction with anyone at all.  It's all a bit strange, and lonely!  My contract had been until the end of 2025, and then it got extended until the end of 2026.  After that, I'll need to figure it out 🤔
-
-### Life ...
-
-The weekdays are filled with track & field training for Aidan, and piano lessons for Éamon, walking the dog and sitting in the basement at a desk.
-
-Every so often on the weekends, there will be a track meet for Aidan or a visit to a train station for Éamon to record videos of freight trains, commuter trains, etc.  Éamon is obsessed with trains and going "railfanning" (it's a thing!) ... in his own words, he's a "train enthusiast"!!  About once a month we'll have Susan's family over for Sunday dinner.
-
-### ... and death
-
-> "We have two lives, and the second begins when we realize we only have one."
-> - Confucius
-
-Along the way, I stopped going to church, then stopped believing in God/heaven/hell/etc.  I believe that this is it - we were born, we live, then we die, and then there's nothing.
-
-So, how to make the most of it?  Stoicism (the philosophy) has come the closest to being my template for living the good life - failing every day, and then trying the next.  That's basically all it is - try your best today, forgive yourself for messing up, try again tomorrow.
-
-For far too long I tied my identity to what I did, professionally, and doing it well.  It took me way too long to realize that life is about relationships - family, friends.  What's the point of living if you can't share it with others?  Doing relationships well is far more important.
-
-I worry about my boys, what they're going to do, hoping I'm raising good humans and that I haven't messed them up (... or at least not too much!)
-
-Benjamin Franklin used the famous phrase in 1789 that "in this world nothing is certain except death and taxes".  Taxes can be avoided!  Death, however ...
-
-We're all making that journey.  Wouldn't it be better to make that journey together?
-
-The spiritual teacher Ram Dass has a lovely quote: "We're all just walking each other home".
-
-On that sober note, I'd really love to hear about what's going on in your life, what has happened on your journey since Schull C.C.  You can send me an email at koschaos@gmail.com, or send me a direct message on WhatsApp/Messages/Signal/etc.  I hope you reach out.
 
 ### Lessons learned ...
 
@@ -155,15 +128,15 @@ So no one told me that the first line of the "Friends" theme song would be so tr
 
 Oh yeah, add parenting to it! Just when you think you _might_ have the whole adulting thing figured out, throw some kids into the mix and you can forget about figuring out anything, ever again!!  Still, there are some moments of joy ... right? 😬
 
-The one that hit me the most is how your focus completely shifts ... from yourself, to yourself+partner, to your kids.  I've learned new stuff from "Curious George" and "Peppa Pig"!
+The one that hit me the most is how your focus completely shifts ... from yourself, to yourself+partner, to your kids.  And the stuff you end up learning ...
 
-Though I've no interest in gaming, I've learned about different styles of video games (side-scroller, platformer, fps, rpg, mmorpg, strategy, simulation, etc.) and listened to various electronic dance tunes from Geometry Dash (which is a rhythm-based side-scroller platformer) ... all because of Aidan.
+I've learned new stuff from "Curious George" and "Peppa Pig"!  Though I've no interest in gaming, I've learned about different styles of video games (side-scroller, platformer, FPS, RPG, MMORPG, strategy, simulation, etc.) and listened to various electronic dance tunes from Geometry Dash (which is a rhythm-based side-scroller platformer) ... all because of Aidan.
 
 I've learned that "railfanning" is a thing where "rail enthusiasts" record videos of trains and post them on YouTube (Éamon) and that they use radio scanners to listen to railroad traffic, and that "squelch" is _not_ a made up word! (It's a radio thing!!) 😵‍💫
 
-All sorts of stuff that I would have zero interest in ... except it's stuff the boys are interested in and excited about, so you figure it out!  They're not into computer programming (I've tried!) or reading history or philosophy (granted, me at their age would cringe at me at my age, so ...!)
+All sorts of stuff that I would have zero interest in ... except it's stuff the boys are interested in and excited about, so you figure it out!  They're not into computer programming (I've tried!) or reading/listening to books on self-improvement or history or philosophy.  Granted, me at their age would cringe at me at my age, so ... 🤷
 
-And the worry!  You worry about keeping them alive when they're young.  Now I worry about strangling them as teenagers!  You worry about the future, their future, their needs, what will happen after I'm gone, etc., etc., etc.
+And the worry!  You worry about keeping them alive when they're young.  Now I worry about strangling them as teenagers!  You worry about the future, their future, their needs, what will happen after I'm gone, etc., etc., etc.  I'm hoping I'm raising good humans and that I haven't messed them up (... or at least not too much ... I'm not sure I can afford the therapy!)
 
 #### 3. Sh*t happens, but you can figure it out
 
@@ -175,13 +148,13 @@ You just keep walking.
 
 #### 4. It's all about relationships
 
-Life is about relationships.  It's not about work, or money, or stuff, or status ... that's all bullshit.  It's about good relationships with people, with family, with friends.  As a kid who was mortifyingly shy and introverted, this lesson has been ... and still is ... the hardest for me to navigate.
+Life is about relationships.  It's not about work, or money, or stuff, or status ... that's all bullshit.  It's about good relationships, with family, with friends.  As a kid who was mortifyingly shy and introverted, this lesson has been ... and still is ... the hardest for me to navigate.
 
-It's been too easy for me to turn inward and close off the world to focus on just my home.  It's why I'm grateful to have been added to the WhatsApp group.  It's why I'm happy to go to track meets and be part of the parent group.  It's why I've got reminders to reach out to people, to check in on how they're doing, how they're really doing, not the curated Instabook/Facegram feed.  So, I've to be intentional about it, but it's usually worth the effort.
+It's been too easy for me to turn inward and close off the world to focus on just my home.  It's why I'm grateful to have been added to the WhatsApp group.  It's why I'm happy to go to Aidan's track meets and be part of the parent group.  It's why I've got reminders to reach out to people, to check in on how they're doing, how they're really doing, not the curated Instabook/Facegram feed.  So, I've to be intentional about it, but it's usually worth the effort.
 
 #### 5. "We're all just walking each other home."
 
-I heard that ☝🏻 quote on a podcast, attributed to the spiritual teacher Ram Dass, and it resonated a lot.  It ties to the point above about relationships.  However different our paths in life, all of us, every single one of us, are all walking to the same destination, an endpoint that no one likes to talk about, but it's inevitable for all of us.  We are all likely encountering similar obstacles along the way, differing perhaps in the timing or location or intensity.
+I heard that ☝🏻 quote on a podcast, attributed to the spiritual teacher Ram Dass, and it resonated a lot.  It ties to the point above about relationships.  However different our paths in life, all of us, every single one of us, are all walking to the same destination, an endpoint that no one likes to talk about, but it's inevitable.  We are all likely encountering similar obstacles along the way, differing perhaps in the timing, or location, or intensity.
 
 If we're all heading the same way, if we're all encountering the same types of challenges (and joys, and emotions, etc.), wouldn't it be nicer to walk there together, with some friends to help and be helped along the way?
 
