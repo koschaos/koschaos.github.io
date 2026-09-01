@@ -55,7 +55,7 @@ What else happened?  Oh yeah, I had a cardiac procedure!  In 2018, I was diagnos
 
 My cardiologist had suggested that I consider a catheter ablation procedure as the frequency and occurrence of my A.Fib. made me a really good candidate for a successful outcome, that is, no more A.Fib.!  It wasn't until late 2022 that we revisited the idea and he referred me to a specialist.
 
-Now, should I have been a bit more worried when this guy introduced himself as an "electrician"?!  According to him, there are three types of cardiologists - a "signals" type, like my regular cardiologist, who looks at EKGs and electrocardiograms, etc.; a "plumber" - the one who puts in stents and does bypasses, they're the one you want when having a heart attack; and an "electrician" ... technically, an *electrophysiologist* ... who deals with atypical heart rhythms!
+Now, should I have been a bit more worried when this guy introduced himself as an "electrician"?!  According to him, there are three types of cardiologists - a "signals" type, like my regular cardiologist, who looks at EKGs and echocardiograms, etc.; a "plumber" - the one who puts in stents and does bypasses, they're the one you want when having a heart attack; and an "electrician" ... technically, an *electrophysiologist* ... who deals with atypical heart rhythms!
 
 Anyway, I got put on the waitlist in January 2023, with an expected wait time of about sixteen months.  At the June follow-up, I was informed that, because the WHO lifted the pandemic designation earlier in the year, the procedures were now being filled up and I would be done in about three months ...
 
@@ -97,7 +97,7 @@ The other main books that I found impactful (these are non-fiction):
 
 - 📖 *Humankind: A Hopeful History* - Rutger Bregman, translated by Erica Moore, Elizabeth Manton
   
-  Technically, this is on my list as a 2014 book, as I started it in December but finished it this month! Yet another book from an author who was interviewed on Scott Galloway's podcast!!
+  Technically, this is on my list as a 2024 book, as I started it in December but finished it this month! Yet another book from an author who was interviewed on Scott Galloway's podcast!!
   
   If you pay any attention to the news media, you'd be forgiven for thinking that the world is doomed and humanity is f....screwed. 🤨  There are studies that seem to highlight the innate selfishness and cruelty of our species - the Milgrim experiment, the Stanford prison experiment, the broken windows theory of policing, etc.
   
